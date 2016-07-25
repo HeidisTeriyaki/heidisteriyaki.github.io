@@ -4,7 +4,7 @@ email: info@heidisteriyaki.com
 description: > # this means to ignore newlines until "baseurl:"
    Silverdale Plaza, 3014 NW Bucklin Hill Rd, Silverdale, WA 98383
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.heidisteriyaki.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
