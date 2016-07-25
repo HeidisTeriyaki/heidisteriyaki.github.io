@@ -2,7 +2,8 @@
 title: Heidi's Teriyaki Express
 email: info@heidisteriyaki.com
 description: > # this means to ignore newlines until "baseurl:"
-   Silverdale Plaza, 3014 NW Bucklin Hill Rd, Silverdale, WA 98383
+  Authentic Vietnamese & Asian Cuisines
+  Dine-In or Take Out Family Style Restaurant 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
