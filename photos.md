@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: default
+permalink: /photos/
 ---
 
 Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
