@@ -2,7 +2,7 @@
 title: Heidi's Teriyaki Express
 email: info@heidisteriyaki.com
 description: > # this means to ignore newlines until "baseurl:"
-   Family Style Restaurant based in Silverdale, WA <br/>
+   Family Style Restaurant <br/>
    Authentic Vietnamese & Asian Cuisines <br/>
    We do Dine-Ins and Take Out Orders! <br/>
 baseurl: "" # the subpath of your site, e.g. /blog/
