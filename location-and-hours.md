@@ -3,15 +3,15 @@ layout: page
 title: Location and Hours
 permalink: /location-and-hours/
 ---
-<p>Phone Number: <a href="360-662-0060">(360) 662-0060</a><br/></p>
+<p><b>Phone Number:</b> <a href="360-662-0060">(360) 662-0060</a><br/></p>
 
-<p>Hours:<br/>
-Monday - Friday: 11:00 AM - 8:00 PM<br/>
-Saturday: 11:00 AM - 8:00 PM<br/>
-Sunday: CLOSED<br/>
+<p><b>Hours:</b><br/>
+MON - FRI: 11:00 AM - 8:00 PM<br/>
+SAT: 11:00 AM - 8:00 PM<br/>
+SUN: CLOSED<br/>
 <p/>
 
-<p>Address:<br/>
+<p><b>Address:</b><br/>
 3014 NW Bucklin Hill Road<br/>
 Silverdale, WA 98383<br/>
 (Across from Staples and Jo-Ann)<br/>
