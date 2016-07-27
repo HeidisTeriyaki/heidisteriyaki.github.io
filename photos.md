@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: Photos (coming soon!)
 permalink: /photos/
 ---
 <div class="home">
