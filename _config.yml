@@ -2,8 +2,7 @@
 title: Heidi's Teriyaki Express
 email: info@heidisteriyaki.com
 description: > # this means to ignore newlines until "baseurl:"
-   Authentic Vietnamese & Asian Cuisines<br/>
-   We do Dine-Ins and Take Outs!<br/>
+ Authentic Asian Cuisine
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
