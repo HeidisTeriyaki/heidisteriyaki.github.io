@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Photos (coming soon!)
-permalink: /photos/
+permalink: "/photos/"
+layout: page
 ---
+
 <div class="home">
 
   {% include preview.html %}
