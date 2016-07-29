@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Location and Hours
-permalink: /location-and-hours/
+permalink: "/location-and-hours/"
+layout: page
 ---
+
 <p>Phone Number: <a href="360-662-0060">(360) 662-0060</a><br/></p>
 
 <p>Hours:<br/>
