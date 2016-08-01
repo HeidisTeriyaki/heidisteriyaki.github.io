@@ -15,6 +15,6 @@ description: |
   Authentic Asian Cuisine
 baseurl: ''
 url: ''
-facebook_username: HeidisTeriyaki
+#facebook_username: HeidisTeriyaki
 markdown: kramdown
 permalink: pretty
