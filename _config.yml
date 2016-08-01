@@ -10,8 +10,11 @@ collections:
     output: true
 email: info@heidisteriyaki.com
 description: |
+  Vietnamese Phở Restaurant<br/>
+  And Various Other<br/>
   Authentic Asian Cuisine
 baseurl: ''
 url: ''
+facebook_username: HeidisTeriyaki
 markdown: kramdown
 permalink: pretty
