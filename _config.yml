@@ -2,15 +2,15 @@
 title: Heidi's Teriyaki Express
 timezone: UTC
 collections:
+  includes:
+    title: Includes
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  includes:
-    title: includes
-    output: false
 email: info@heidisteriyaki.com
 description: |
   Vietnamese Phở Restaurant<br/>
