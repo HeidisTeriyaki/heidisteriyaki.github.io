@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  index-dot-html:
+    title: index.html
+    output: true
 email: info@heidisteriyaki.com
 description: |
   Vietnamese Phở Restaurant<br/>
