@@ -170,5 +170,5 @@ layout: default
 <div align='center'>
   <span>You are visitor number:</span><br/>
     <img src='http://www.free-website-hit-counter.com/c.php?d=9&id=90296&s=5' border='0' title='free website hit counter'>
-  <br / >
+  <br/>
 </div>
