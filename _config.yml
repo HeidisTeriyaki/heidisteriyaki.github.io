@@ -2,9 +2,6 @@
 title: Heidi's Teriyaki Express
 timezone: UTC
 collections:
-  menu:
-    title: Menu
-    output: true
   posts:
     title: Posts
     output: true
