@@ -1,6 +1,7 @@
 ---
 title: Photos (coming soon!)
 permalink: "/photos/"
+position: 0
 layout: page
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Location and Hours
 permalink: "/location-and-hours/"
+position: 3
 layout: page
 ---
 
