@@ -8,8 +8,7 @@ layout: page
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
 
 <p><b>Hours:</b><br/>
-MON - FRI: 11:00 AM - 8:00 PM<br/>
-SAT: 11:00 AM - 8:00 PM<br/>
+MON - SAT: 11:00 AM - 8:00 PM<br/>
 SUN: CLOSED<br/>
 <p/>
 
