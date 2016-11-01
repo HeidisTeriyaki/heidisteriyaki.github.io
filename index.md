@@ -72,12 +72,8 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spicy beef noodle soup</span><br/>
       <span>&nbsp;&nbsp;<b>S5. Hủ Tiếu Mi Thập Cẩm</b> $9.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rice noodle & egg noodle soup with sliced pork, shrimp, and crab</span><br/>
-      <span>&nbsp;&nbsp;<b>S6. Chowmein: Chicken, Beef, Pork, or Tofu</b> $8.95 ~ <b>Shrimp</b> $9.95</span><br/>
+      <span>&nbsp;&nbsp;<b>S6. Chowmein: Chicken, Beef, Pork, or Tofu</b> $8.95 ~ <b>Shrimp</b> $10.25</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir-fry noodles</span><br/>
-</p>
-
-<p>
-    <h1>Specialties</h1>
       <span>&nbsp;&nbsp;<b>S7. General Tso's Chicken [SPICY]</b> $8.50</span><br/>
       <span>&nbsp;&nbsp;<b>S8. Orange Chicken [SPICY]</b> $8.50</span><br/>
       <span>&nbsp;&nbsp;<b>S9. Beef & Broccoli Stir Fried</b> $9.25</span><br/>
