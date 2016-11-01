@@ -8,7 +8,7 @@ layout: default
 <p>
   <h1>Appetizers</h1>
     <ul>
-      <li><b>A1. Fried Bean Curd Skin Wrap Salad</b> (Tàu Hũ Ky) $6.95</li>
+      <li><b>A1. Fried Bean Curd Skin Wrap Salad</b> (Tàu Hũ Ki) $6.95</li>
       <li><b>A2. Fried Spring Roll</b> (Gỏi Cuốn) 2 for $6.25</li>
       <li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $6.25</li>
       <li><b>A4. Pot Stickers</b> (Gyōza) 6 for $6.25</li>
@@ -27,11 +27,10 @@ layout: default
       <span>&nbsp;&nbsp;<b>P3. Phở Tái</b> $8.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with eye of round steak</span><br/>
       <span>&nbsp;&nbsp;<b>P4. Phở Tái Nạm</b> $8.95</span><br/>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;;Served with eye of round steak & tender brisket</span><br/>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Served with eye of round steak & tender brisket</span><br/>
       <span>&nbsp;&nbsp;<b>P5. Phở Gà</b> $8.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with chicken</span><br/>
-        <span>&nbsp;&nbsp;<b>P6. Tàu Hũ</b> $8.95</span><br/>
-          <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with Tofu</span><br/>
+        <span>&nbsp;&nbsp;<b>P6. Pho Tàu Hũ</b> $8.95</span><br/><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with Tofu</span><br/>
       <span>&nbsp;&nbsp;<b>P7. Phở Tôm</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp</span><br/>
       </ol><br/>
