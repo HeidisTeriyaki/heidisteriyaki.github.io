@@ -64,7 +64,7 @@ layout: default
     <h1>Specialties</h1>
       <span>&nbsp;&nbsp;<b>S1. Bánh Xèo</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese crepe with shrimp, pork, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping</span><br/>
-      <span>&nbsp;&nbsp;<b>S2. Vietnamese Beef Salad</b> $8.95</span><br/>
+      <span>&nbsp;&nbsp;<b>S2. Vietnamese Beef Salad</b> $9.25</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese beef salad served with a bowl of steamed rice</span><br/>
       <span>&nbsp;&nbsp;<b>S3. Yakisoba Noodle: Chicken, Beef, Pork, or Tofu</b> $9.95 ~ <b>Shrimp</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir fried with vegetables, yakisoba noodle & sauce</span><br/>
