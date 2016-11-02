@@ -30,7 +30,7 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with eye of round steak & tender brisket</span><br/>
       <span>&nbsp;&nbsp;<b>P5. Phở Gà</b> $8.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with chicken</span><br/>
-        <span>&nbsp;&nbsp;<b>P6. Pho Tàu Hũ</b> $8.95</span><br/><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with Tofu</span><br/>
+        <span>&nbsp;&nbsp;<b>P6. Pho Tàu Hũ</b> $8.95</span><br/><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with tofu</span><br/>
       <span>&nbsp;&nbsp;<b>P7. Phở Tôm</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp</span><br/>
       </ol><br/>
