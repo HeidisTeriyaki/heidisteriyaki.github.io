@@ -32,9 +32,8 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with chicken</span><br/>
         <span>&nbsp;&nbsp;<b>P6. Pho Tàu Hũ</b> $8.95</span><br/><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with tofu</span><br/>
       <span>&nbsp;&nbsp;<b>P7. Phở Tôm</b> $10.95</span><br/>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp</span><br/>
-</p>
-    <span>***<i><b>Phở</b> for <b>Take-Out</b> is for <b>Large</b> sized orders <b>ONLY</b></i>***</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp</span><br/><br/>
+       <span>***<i><b>Phở</b> for <b>Take-Out</b> is for <b>Large</b> sized orders <b>ONLY</b></i>***</span>
 </p>
 
 <p>
