@@ -123,14 +123,7 @@ and a side of fish sauce</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side</span><br/>
       <span>&nbsp;&nbsp;<b>V9. Vegetable Yakisoba</b> $8.95</span><br/>
       <span>&nbsp;&nbsp;<b>V10. Phở Vegetables (Beef bones broth)</b> $8.95</span><br/>
-</p>
 
-<p>
-  <span>***<i><b>Please let us know if you have any FOOD ALLERGIES before you order</b></i>***</span><br/>
-  <span>***<i><b>Please order according to the menu, a surcharge may incur if modifications to dishes are made</b></i>***</span><br/>
-  <span>***<i><b>Additional fees for extra sauce, meats, vegetables, etc. may apply</b></i>***</span><br/>
-  <span>***<i><b>No replacements can be done after food is served, please order accordingly</b></i>***</span><br/>
-  <span>***<i><b>Menu and prices subject to change without notice (Effective 11/01/2016)</b></i>***</span><br/>
 </p>
 
 <p>
@@ -155,6 +148,13 @@ and a side of fish sauce</span><br/>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Iced Espresso with Condensed Milk</i></span><br/>
       </ul>
 </p>
+
+<p>
+  <span>***<i><b>Please let us know if you have any FOOD ALLERGIES before you order</b></i>***</span><br/>
+  <span>***<i><b>Please order according to the menu, a surcharge may incur if modifications to dishes are made</b></i>***</span><br/>
+  <span>***<i><b>Additional fees for extra sauce, meats, vegetables, etc. may apply</b></i>***</span><br/>
+  <span>***<i><b>No replacements can be done after food is served, please order accordingly</b></i>***</span><br/>
+  <span>***<i><b>Menu and prices subject to change without notice (Effective 11/01/2016)</b></i>***</span><br/>
 
   <span>***<i><b>Consuming raw or undercooked meats, poultry, seafood, shellfish
                or eggs may increase your risk of food borne illness.</b></i>***</span><br/>
