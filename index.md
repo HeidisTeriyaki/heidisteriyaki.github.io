@@ -154,10 +154,7 @@ and a side of fish sauce</span><br/>
   <span>***<i><b>Please order according to the menu, a surcharge may incur if modifications to dishes are made</b></i>***</span><br/>
   <span>***<i><b>Additional fees for extra sauce, meats, vegetables, etc. may apply</b></i>***</span><br/>
   <span>***<i><b>No replacements can be done after food is served, please order accordingly</b></i>***</span><br/>
-  <span>***<i><b>Menu and prices subject to change without notice (Effective 11/01/2016)</b></i>***</span><br/>
-
-  <span>***<i><b>Consuming raw or undercooked meats, poultry, seafood, shellfish
-               or eggs may increase your risk of food borne illness.</b></i>***</span><br/>
+  <span>***<i><b>Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness.</b></i>***</span><br/>
   <span>***<i><b>Menu and prices subject to change without notice (Effective 11/01/2016)</b></i>***</span><br/>
 
 <br/><br/>
