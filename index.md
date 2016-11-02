@@ -68,7 +68,7 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese beef salad served with a bowl of steamed rice</span><br/>
       <span>&nbsp;&nbsp;<b>S3. Yakisoba: Chicken, Beef, Pork, or Tofu</b> $9.95 ~ <b>Shrimp</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir fried with vegetables, yakisoba noodle & sauce</span><br/>
-      <span>&nbsp;&nbsp;<b>S4. Bún bò Huế [SPICY]</b> $9.50</span><br/>
+      <span>&nbsp;&nbsp;<b>S4. Bún Bò Huế [SPICY]</b> $9.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spicy beef noodle soup</span><br/>
       <span>&nbsp;&nbsp;<b>S5. Hủ Tiếu Mi Thập Cẩm</b> $9.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rice noodle & egg noodle soup with sliced pork, shrimp, and crab</span><br/>
