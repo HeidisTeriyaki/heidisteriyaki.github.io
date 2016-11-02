@@ -34,7 +34,7 @@ layout: default
       <span>&nbsp;&nbsp;<b>P7. Phở Tôm</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp</span><br/><br/>
 
-      <span>***<i><b>Phở</b> for <b>Take-Out</b> is for <b>Large</b> sized orders <b>ONLY</b></i>***</span>
+      <span>***<i><b>Phở</b> for <b>Take-Out</b> is <b>Large</b> sized orders <b>ONLY</b></i>***</span>
 </p>
 
 <p>
