@@ -123,7 +123,7 @@ and a side of fish sauce</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side</span><br/>
       <span>&nbsp;&nbsp;<b>V9. Vegetable Yakisoba</b> $8.95</span><br/>
       <span>&nbsp;&nbsp;<b>V10. Phở Vegetables (Beef bones broth)</b> $8.95</span><br/>
-
+       </ul>
 </p>
 
 <p>
