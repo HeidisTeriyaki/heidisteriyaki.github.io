@@ -76,12 +76,10 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir-fried with vegetables and chowmein noodles </span><br/>
       <span>&nbsp;&nbsp;<b>S7. General Tso's Chicken [SPICY]</b> $8.50</span><br/>
       <span>&nbsp;&nbsp;<b>S8. Orange Chicken [SPICY]</b> $8.50</span><br/>
-      <span>&nbsp;&nbsp;<b>S9. Beef & Broccoli Stir Fried</b> $9.25</span><br/>
-      <span>&nbsp;&nbsp;<b>S10. Chicken & Broccoli Stir Fried</b> $9.25</span><br/>
-      <span>&nbsp;&nbsp;<b>S11. Shrimp & Broccoli Stir Fried</b> $10.25</span><br/>
-      <span>&nbsp;&nbsp;<b>S12. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $13.95</span><br/>
+      <span>&nbsp;&nbsp;<b>S9. Broccoli Stir Fried: Chicken, Beef, Pork, or Tofu</b> $8.95 ~ <b>Shrimp</b> $10.25</span><br/>
+      <span>&nbsp;&nbsp;<b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $13.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles, and a side of fish sauce</span><br/>
-      <span>&nbsp;&nbsp;<b>S13. Tôm Rang Muối [SPICY]</b> $10.25</span><br/>
+      <span>&nbsp;&nbsp;<b>S11. Tôm Rang Muối [SPICY]</b> $10.25</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir fried shrimp with broccoli, onion, garlic, and jalapeños served with steamed rice--with a side of salted lime juice for dipping</span><br/>
 </p>
 
