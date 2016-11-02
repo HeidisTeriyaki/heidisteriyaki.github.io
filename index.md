@@ -106,20 +106,14 @@ and a side of fish sauce</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fried egg rolls</span><br/>
       <span>&nbsp;&nbsp;<b>B5. Bún Đặc Biệ</b> $9.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combo grilled pork, tofu wrap, shrimp, and egg rolls</span><br/>
+</ul>
 </p>
 
 <p>
-    <h1>Vegetarian Appetizers</h1>
-      <ul>
-        <li><b>V1. Tofu Spring Rolls</b> 2 for $6.25</li>
-        <li><b>V2. Crab Cream Cheese Wonton</b> 6 for $6.25</li>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Our wontons are stuffed with crab, cream cheese, & spices</i></span>
-    </ul>
-</p>
-
-<p>
-    <h1>Vegetarian Dish</h1>
-      <span>&nbsp;&nbsp;<b>V3. Tofu Teriyaki</b> $8.50</span><br/>
+    <h1>Veggies and Tofu Dishes</h1>
+        <span>&nbsp;&nbsp;<b>V1. Tofu Spring Rolls</b> 2 for $6.25</li>      
+        <span>&nbsp;&nbsp;<b>V2. Crab Cream Cheese Wonton</b> 6 for $6.25</li>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Our wontons are stuffed with crab, cream cheese, & spices</i></span><span>&nbsp;&nbsp;<b>V3. Tofu Teriyaki</b> $8.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofu served with steamed rice & vegetable chow mein</span><br/>
       <span>&nbsp;&nbsp;<b>V4. Tofu Chow Mein</b> $8.95</span><br/>
       <span>&nbsp;&nbsp;<b>V5. Vegetable Chow Mein</b> $7.95</span><br/>
