@@ -118,7 +118,7 @@ and a side of fish sauce</span><br/>
       <span>&nbsp;&nbsp;<b>V5. Vegetable Chow Mein</b> $7.95</span><br/>
       <span>&nbsp;&nbsp;<b>V6. Vegetable Fried Rice</b> $7.95</span><br/>
       <span>&nbsp;&nbsp;<b>V7. Bánh Xèo</b> $10.95</span><br/>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese crepe with tofu and shrimp</span><br/>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese crepe with shrimp, tofu, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping</span><br/>
       <span>&nbsp;&nbsp;<b>V8. Tofu Vermicelli Bowl</b> $8.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side</span><br/>
       <span>&nbsp;&nbsp;<b>V9. Vegetable Yakisoba</b> $8.95</span><br/>
