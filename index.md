@@ -11,7 +11,7 @@ layout: default
       <li><b>A1. Fried Bean Curd Skin Wrap Salad</b> (Tàu Hũ Ki) $6.95</li>
       <li><b>A2. Fresh Spring Roll</b> (Gỏi Cuốn) 2 for $6.25</li>
       <li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $6.25</li>
-      <li><b>A4. Pot Stickers</b> (Gyōza) 6 for $6.25</li>
+      <li><b>A4. Potstickers</b> (Gyōza) 6 for $6.25</li>
       <li><b>A5. Crab Cream Cheese Wonton</b> 6 for $6.25</li>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Our wontons are stuffed with crab, cream cheese, & spices</i></span>
     </ul>
