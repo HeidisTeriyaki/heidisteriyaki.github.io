@@ -66,16 +66,16 @@ layout: default
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese crepe with shrimp, pork, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping</span><br/>
       <span>&nbsp;&nbsp;<b>S2. Vietnamese Beef Salad</b> $9.25</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vietnamese beef salad served with a bowl of steamed rice</span><br/>
-      <span>&nbsp;&nbsp;<b>S3. Yakisoba Noodle: Chicken, Beef, Pork, or Tofu</b> $9.95 ~ <b>Shrimp</b> $10.95</span><br/>
+      <span>&nbsp;&nbsp;<b>S3. Yakisoba Noodle: Chicken, Beef, Pork, or Tofu</b> $9.50 ~ <b>Shrimp</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir fried with vegetables, yakisoba noodle & sauce</span><br/>
       <span>&nbsp;&nbsp;<b>S4. Bún Bò Huế [SPICY]</b> $9.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spicy beef noodle soup</span><br/>
       <span>&nbsp;&nbsp;<b>S5. Hủ Tiếu Mi Thập Cẩm</b> $9.50</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rice noodle & egg noodle soup with sliced pork, shrimp, and crab</span><br/>
-      <span>&nbsp;&nbsp;<b>S6. Chowmein Noodle: Chicken, Beef, Pork, or Tofu</b> $8.95 ~ <b>Shrimp</b> $10.25</span><br/>
+      <span>&nbsp;&nbsp;<b>S6. Chowmein Noodle: Chicken, Beef, Pork, or Tofu</b> $9.25 ~ <b>Shrimp</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir-fried with vegetables and chowmein noodles </span><br/>
-      <span>&nbsp;&nbsp;<b>S7. General Tso's Chicken [SPICY]</b> $8.50</span><br/>
-      <span>&nbsp;&nbsp;<b>S8. Orange Chicken [SPICY]</b> $8.50</span><br/>
+      <span>&nbsp;&nbsp;<b>S7. General Tso's Chicken [SPICY]</b> $8.95</span><br/>
+      <span>&nbsp;&nbsp;<b>S8. Orange Chicken [SPICY]</b> $8.95</span><br/>
       <span>&nbsp;&nbsp;<b>S9. Broccoli Stir Fried: Chicken, Beef, Pork, or Tofu</b> $8.95 ~ <b>Shrimp</b> $10.25</span><br/>
       <span>&nbsp;&nbsp;<b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $13.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles, 
