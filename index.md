@@ -80,7 +80,7 @@ layout: default
       <span>&nbsp;&nbsp;<b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $13.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles, 
 and a side of fish sauce</span><br/>
-      <span>&nbsp;&nbsp;<b>S11. Tôm Rang Muối [SPICY]</b> $10.25</span><br/>
+      <span>&nbsp;&nbsp;<b>S11. Tôm Rang Muối [SPICY]</b> $10.95</span><br/>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stir fried shrimp with broccoli, onion, garlic, and jalapeños served with steamed rice--with a side of salted lime juice for dipping</span><br/>
 </p>
 
