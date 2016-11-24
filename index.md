@@ -4,9 +4,9 @@ position: 0
 layout: default
 ---
 
-<span style="color:red">Closed</span> for Thanksgiving (<span style="color:red">Thursday</span> & <span style="color:red">Friday</span>)
+<b><span style="color:red">Closed</span> for Thanksgiving (<span style="color:red">Thursday</span> & <span style="color:red">Friday</span>)</b>
 
-Will <span style="color:red">re-open</span> on <span style="color:red">Saturday</span>
+<b>Will <span style="color:red">re-open</span> on <span style="color:red">Saturday</span></b>
 
 <span>*<i>Menu and prices are subject to change without notice --- 11/01/2016</i>*</span><br/>
 <p>
