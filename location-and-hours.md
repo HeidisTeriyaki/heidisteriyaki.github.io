@@ -9,6 +9,7 @@ layout: page
 
 <p><b>Hours:</b><br/>
 CLOSED THANKSGIVING THURSDAY & FRIDAY<br/>
+RE-OPEN ON SATURDAY<br/>
 MON - SAT: 11:00 AM - 8:00 PM<br/>
 SUN: CLOSED<br/>
 (Dine-In Closed @ 7:50PM--Take-Out ONLY)<br/>
