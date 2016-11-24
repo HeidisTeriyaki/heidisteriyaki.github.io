@@ -4,11 +4,11 @@ position: 0
 layout: default
 ---
 
-***<span align="center">Closed for Thanksgiving (Thursday & Friday)</span>***
+***Closed for Thanksgiving (Thursday & Friday)***
 
-***<span align="center">Will re-open on Saturday</span>***
+***Will re-open on Saturday***
 
-<span>***<i>Menu and prices are subject to change without notice --- 11/01/2016</i>***</span><br/>
+<span>*<i>Menu and prices are subject to change without notice --- 11/01/2016</i>*</span><br/>
 <p>
   <h1>Appetizers</h1>
     <ul>
