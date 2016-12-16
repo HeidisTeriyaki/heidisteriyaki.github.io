@@ -5,7 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
-    preview: ""
+    preview: ''
   uploads:
     title: Uploads
     output: true
