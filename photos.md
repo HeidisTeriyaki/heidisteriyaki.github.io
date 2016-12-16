@@ -1,5 +1,5 @@
 ---
-title: Photos (coming soon!)
+title: Photos
 permalink: "/photos/"
 position: 1
 layout: page
