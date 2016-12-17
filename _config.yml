@@ -17,3 +17,11 @@ baseurl: ''
 url: ''
 markdown: kramdown
 permalink: pretty
+
+defaults:
+- scope:
+    type: posts
+  values:
+    title:
+    preview:
+    layout: post
