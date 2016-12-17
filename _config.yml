@@ -13,8 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
-    title: 
-    preview: 
+    image: 
     layout: post
 email: info@heidisteriyaki.com
 description: |
