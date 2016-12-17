@@ -22,6 +22,4 @@ defaults:
 - scope:
     type: posts
   values:
-    title:
-    preview:
     layout: post
