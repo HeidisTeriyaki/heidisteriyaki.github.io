@@ -1,9 +1,0 @@
----
-title: Test 2
-date: 2016-12-17 00:32:00 Z
-image: "/uploads/d1c08f5d3dad2689bd257b9ba9f93ea4_1437182011.jpg"
----
-
-![d1c08f5d3dad2689bd257b9ba9f93ea4_1437182011.jpg](/uploads/d1c08f5d3dad2689bd257b9ba9f93ea4_1437182011.jpg)
-
-Test 2
