@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    title: 
+    preview: 
+    layout: post
 email: info@heidisteriyaki.com
 description: |
   Vietnamese Phở Restaurant<br/>
@@ -17,11 +25,3 @@ baseurl: ''
 url: ''
 markdown: kramdown
 permalink: pretty
-
-defaults:
-- scope:
-    type: posts
-  values:
-    title:
-    preview:
-    layout: post
