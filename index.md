@@ -4,7 +4,7 @@ position: 0
 layout: default
 ---
 
-<b><span style="color:red">Closed</span> for Christmas and New Years to <span style="color:red">December 24th</span> to <span style="color:red">December 31st</span></b>
+<b><span style="color:red">Closed</span> for Christmas and New Years (<span style="color:red">December 24th</span> to <span style="color:red">December 31st</span>)</b>
 
 <b>Will <span style="color:red">re-open</span> on <span style="color:red">January 2nd</span></b>
 
