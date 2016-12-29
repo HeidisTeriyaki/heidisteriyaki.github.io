@@ -4,7 +4,7 @@ date: 2016-12-29 18:52:00 Z
 image: "/uploads/IMG_1171.JPG"
 ---
 
-[IMG_1171.JPG](/uploads/IMG_1171.JPG)
+![IMG_1171.JPG](/uploads/IMG_1171.JPG)
 
 Tàu Hũ Ki
 
