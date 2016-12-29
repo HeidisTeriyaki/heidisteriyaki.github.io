@@ -23,4 +23,4 @@ description: |
 baseurl: ''
 url: ''
 markdown: kramdown
-permalink: /:title/
+permalink: "/:title/"
