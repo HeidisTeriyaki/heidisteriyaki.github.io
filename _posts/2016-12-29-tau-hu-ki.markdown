@@ -1,10 +1,10 @@
 ---
 title: Tàu Hũ Ki
 date: 2016-12-29 18:52:00 Z
-image: "/uploads/IMG_1171.JPG"
+image: "/uploads/A1.JPG"
 ---
 
-![Tàu Hũ Ki](/uploads/Tau-Hi-Ki.JPG)
+![Tàu Hũ Ki](/uploads/A1.JPG)
 
 Tàu Hũ Ki
 
