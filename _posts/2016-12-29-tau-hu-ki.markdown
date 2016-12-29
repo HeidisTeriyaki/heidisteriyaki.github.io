@@ -1,6 +1,7 @@
 ---
 title: Tàu Hũ Ki
 date: 2016-12-29 19:08:00 Z
+permalink: none
 image: "/uploads/A1.JPG"
 ---
 
