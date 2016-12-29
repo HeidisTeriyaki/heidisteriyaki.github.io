@@ -1,5 +1,5 @@
 ---
-title: Vietnamese Curry Chicken with Lemongrass [SPICY]
+title: C3. Vietnamese Curry Chicken with Lemongrass [SPICY]
 date: 2016-12-29 20:12:00 Z
 image: "/uploads/C3.JPG"
 ---
