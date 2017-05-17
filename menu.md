@@ -1,8 +1,8 @@
 ---
-title: Menu 
+title: Menu
 permalink: "/menu"
 position: 2
-layout: page 
+layout: page
 ---
 
 <span>*<i>Menu and prices are subject to change without notice --- 11/01/2016</i>*</span><br/>

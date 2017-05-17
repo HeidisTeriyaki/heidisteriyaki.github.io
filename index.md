@@ -1,6 +1,6 @@
 ---
 title: Heidi's Teriyaki Express
-position: 0 
+position: 0
 layout: default
 ---
 
