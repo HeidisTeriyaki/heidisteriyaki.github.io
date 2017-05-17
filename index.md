@@ -1,6 +1,6 @@
 ---
-title: Location and Hours
-position: 2
+title: Heidi's Teriyaki Express
+position: 0 
 layout: default
 ---
 

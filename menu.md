@@ -1,8 +1,8 @@
 ---
-title: Heidi's Teriyaki Express
+title: Menu 
 permalink: "/menu"
-position: 0
-layout: default
+position: 2
+layout: page 
 ---
 
 <span>*<i>Menu and prices are subject to change without notice --- 11/01/2016</i>*</span><br/>
