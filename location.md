@@ -1,5 +1,5 @@
 ---
-title: Location and Hours
+title: Location
 permalink: "/location-and-hours/"
 position: 3
 layout: page
