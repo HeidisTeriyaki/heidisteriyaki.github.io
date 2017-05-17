@@ -1,7 +1,7 @@
 ---
 title: Location and Hours
 position: 2
-layout: default 
+layout: default
 ---
 
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
