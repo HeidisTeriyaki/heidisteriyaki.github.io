@@ -4,7 +4,7 @@ position: 0
 layout: default
 ---
 
-[storefront.PNG](/uploads/storefront.PNG)
+![storefront.PNG](/uploads/storefront.PNG)
 
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
 
