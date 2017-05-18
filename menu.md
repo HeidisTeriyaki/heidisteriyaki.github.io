@@ -158,8 +158,3 @@ and a side of fish sauce</span><br/>
   <span>***<i><b>Menu and prices subject to change without notice (Effective 11/01/2016)</b></i>***</span><br/>
 
 <br/><br/>
-<div align='center'>
-  <span>You are visitor number:</span><br/>
-    <img src='http://www.free-website-hit-counter.com/c.php?d=9&id=90296&s=5' border='0' title='free website hit counter'>
-  <br/>
-</div>
