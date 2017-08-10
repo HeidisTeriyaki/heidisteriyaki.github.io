@@ -64,7 +64,7 @@ Silverdale, WA 98383<br/>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> August-28-2017</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express</span>
 				</div>
-			</div>
+			
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 		
