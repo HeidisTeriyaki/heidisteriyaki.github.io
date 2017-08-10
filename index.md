@@ -37,9 +37,10 @@ Silverdale, WA 98383<br/>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script>
 		$( document ).ready(function(){
-			var timeInMs = Date.now();
-			//if(timeInMs 
-			$("#btn_modal").click();
+			var timeInMs = Date.now();			
+			var msec = Date.parse("August 28, 2017");
+			if(timeInMs < msec)
+				$("#btn_modal").click();
 		});
 	</script>	
 	
@@ -64,8 +65,13 @@ Silverdale, WA 98383<br/>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> August-28-2017</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express</span>
 				</div>
-			
+			</div>
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-		
+			</div>
+		  </div>
+		  
+		</div>
+	  </div>  
+	</div>
     
