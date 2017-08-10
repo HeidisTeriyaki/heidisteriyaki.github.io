@@ -64,8 +64,7 @@ Silverdale, WA 98383<br/>
 					We will be <span class="highlightmeclosed"><b>CLOSED</b></span> for family vacation<br> from <br> <span class="cdate"> August-12-2017 </span> to <span class="cdate">August-27-2017</span> <br>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> August-28-2017</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express</span>
-				</div>
-			</div>
+			
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			
