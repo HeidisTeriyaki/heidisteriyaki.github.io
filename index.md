@@ -34,13 +34,26 @@ Silverdale, WA 98383<br/>
 	</style>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<div id="temp">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</div>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
 			var msec = Date.parse("August 28, 2017");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
+			else
+			{
+				if($("#temp").length > 0)
+					$("#temp").remove();
+			}
+			
+			$('#myModal').on('hidden.bs.modal', function () {				
+				if($("#temp").length > 0)
+					$("#temp").remove();
+			})			
+			
 		});
 	</script>	
 	
