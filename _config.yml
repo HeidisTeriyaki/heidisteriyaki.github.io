@@ -20,7 +20,7 @@ description: |
   Vietnamese Phở Restaurant<br/>
   And Various Other<br/>
   Authentic Asian Cuisine
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 permalink: none
