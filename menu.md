@@ -73,24 +73,24 @@ layout: page
 <span>      Vietnamese beef salad served with a bowl of steamed rice</span><br/>
 <span>  <b>S3. Yakisoba Noodle</b></span> <br/>
 <span>      Stir fried with vegetables, yakisoba noodle & sauce</span><br/>
-<span>	    <b> Chicken, Beef, Pork, or Tofu</b> $9.75 </span> <br/>
+<span>	    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicken, Beef, Pork, or Tofu</b> $9.75 </span> <br/>
 <span>      <b>2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
-<span>		<b>Shrimp Yakisoba</b> $11.75</span><br/>
+<span>		<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shrimp Yakisoba</b> $11.75</span><br/>
 <span>  <b>S4. Bún Bò Huế \[SPICY\]</b> $10.25</span><br/>
 <span>      Spicy beef noodle soup</span><br/>
 <span>  <b>S5. Hủ Tiếu Mi Thập Cẩm</b> $10.25</span><br/>
 <span>      Rice noodle & egg noodle soup with sliced pork, shrimp, and crab</span><br/>
 <span>  <b>S6. Chowmein Noodle</b></span><br/>
 <span>      Stir-fried with vegetables and chowmein noodles </span><br/>
-<span>	    <b>Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
-<span>      <b>2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
-<span>	    <b>Shrimp Chowmein</b> $11.75</span><br/>
+<span>	    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
+<span>      <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
+<span>	    <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shrimp Chowmein</b> $11.75</span><br/>
 <span>  <b>S7. General Tso's Chicken \[SPICY\]</b> $9.50</span><br/>
 <span>  <b>S8. Orange Chicken \[SPICY\]</b> $9.50</span><br/>
 <span>  <b>S9. Broccoli Stir Fried</b></span><br/>
-<span>	       <b>Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
-<span>         <b>2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
-<span>         <b>Shrimp Broccoli</b> $11.75</span><br/>
+<span>	       <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
+<span>         <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
+<span>         <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shrimp Broccoli</b> $11.75</span><br/>
 <span>  <b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $14.50</span><br/>
 <span>      Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles,
 and a side of fish sauce</span><br/>
@@ -124,7 +124,7 @@ and a side of fish sauce</span><br/>
 
 <p>
 <h1>Veggies and Tofu Dishes</h1>
-<span>  <b>V1. Tofu Spring Rolls</b> 2 for $6.50</span><br/>\
+<span>  <b>V1. Tofu Spring Rolls</b> 2 for $6.50</span><br/>
 <span>  <b>V2. Crab Cream Cheese Wonton</b> 6 for $6.50</span><br/>
 <span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</span><br/>           <span>  <b>V3. Tofu Teriyaki</b> $8.95</span><br/>
 <span>      Tofu served with steamed rice & vegetable chow mein</span><br/>
