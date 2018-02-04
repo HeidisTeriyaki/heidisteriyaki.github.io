@@ -88,9 +88,9 @@ layout: page
 <span>  <b>S7. General Tso's Chicken \[SPICY\]</b> $9.50</span><br/>
 <span>  <b>S8. Orange Chicken \[SPICY\]</b> $9.50</span><br/>
 <span>  <b>S9. Broccoli Stir Fried</b></span><br/>
-<span>	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
-<span>         - <b>2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
-<span>         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Broccoli</b> $11.75</span><br/>
+<span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $9.75</span> <br/>
+<span>      - <b>2 Meat Combo</b> $10.75 \~ <b>3 Meat Combo</b> $11.75</span><br/>
+<span>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Broccoli</b> $11.75</span><br/>
 <span>  <b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $14.50</span><br/>
 <span>      Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles,
 and a side of fish sauce</span><br/>
