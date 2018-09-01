@@ -25,6 +25,7 @@ Silverdale, WA 98383<br/>
 	
 	
 	
+		
 	<style>
 		.notice {text-align: center;}
 		.highlightme { background-color:#FFFF00; font-size: 150%; }
@@ -77,7 +78,7 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will  <span class="highlightmereopen"><b>OPEN</b></span><br> on Labor Day (Monday) <br> <span class="cdate"> September-02-2018</span> <br><br>
+					<span class="highlightmereopen"><b>We still OPEN on Labor Day (Monday)</b></span><br>  <br> <span class="cdate"> September-02-2018</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
 			</div>
@@ -85,10 +86,3 @@ Silverdale, WA 98383<br/>
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
 		
-
-
-
-
-		
-
-
