@@ -43,7 +43,7 @@ Silverdale, WA 98383<br/>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
-			var msec = Date.parse("September 03, 2018");
+			var msec = Date.parse("September 04, 2018");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
 			else
@@ -78,7 +78,7 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					<span class="highlightmereopen"><b>We still OPEN on Labor Day (Monday)</b></span><br>  <br> <span class="cdate"> September-02-2018</span> <br><br>
+					<span class="highlightmereopen"><b>We still OPEN on Labor Day (Monday)</b></span><br>  <br> <span class="cdate"> September-03-2018</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
 			</div>
