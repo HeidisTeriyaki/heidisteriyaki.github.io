@@ -75,7 +75,7 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED</b></span> for Thanks Giving Holiday <br> from <br> <span class="cdate"> November-22-2018 </span> to <span class="cdate">November-25-2018</span> <br>
+					We will be <span class="highlightmeclosed"><b>CLOSED for Thanks Giving Holiday</b></span>  <br> from <br> <span class="cdate"> November-22-2018 </span> to <span class="cdate">November-25-2018</span> <br>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> November-26-2018</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
