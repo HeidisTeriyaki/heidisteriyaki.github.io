@@ -25,12 +25,13 @@ Silverdale, WA 98383<br/>
 
 
 		
+		
 	<style>
 		.notice {text-align: center;}
 		.highlightme { background-color:#FFFF00; font-size: 150%; }
 		.highlightmeclosed { background-color:#ff9966; font-size: 150%; }
 		.highlightmereopen { background-color:#66ccff; font-size: 150%; }
-		 
+		
 		.cdate { background-color:#FFFF00; font-size: 150%; }
 	</style>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -77,8 +78,8 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED for Christmas & New Year </b></span> <br> from <br> <span class="cdate"> December-24-2018 </span> to <span class="cdate">January-04-2018</span> <br>
-					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Saturday <br> <span class="cdate"> January-05-2018</span> <br><br>
+					We will be <span class="highlightmeclosed"><b>CLOSED for Christmas & New Year </b></span> <br> from <br> <span class="cdate"> December-24-2018 </span> to <span class="cdate">January-04-2019</span> <br>
+					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Saturday <br> <span class="cdate"> January-05-2019</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
 			</div>
