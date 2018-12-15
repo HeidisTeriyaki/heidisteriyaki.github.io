@@ -43,7 +43,7 @@ Silverdale, WA 98383<br/>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
 			var msec = Date.parse("January 05, 2019");
-			if(timeInMs < msec)
+			if(timeInMs < msec) 
 				$("#btn_modal").click();
 			else
 			{
