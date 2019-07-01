@@ -76,7 +76,7 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED for July Fourth </b></span> <br> from <br> <span class="cdate"> July-04-2019 </span> <!--to--> <span class="cdate"><!--January-04-2019--></span> <br>
+					We will be <span class="highlightmeclosed"><b>CLOSED for July Fourth </b></span> <br> <span class="cdate"> July-04-2019 </span> <!--to--> <span class="cdate"><!--January-04-2019--></span> <br>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Friday <br> <span class="cdate"> July-05-2019</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
