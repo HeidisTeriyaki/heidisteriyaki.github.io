@@ -25,19 +25,3 @@ Silverdale, WA 98383<br/>
 
 	 
 		
-
-	
-	<style>
-		.notice {text-align: center;}
-		.highlightme { background-color:#FFFF00; font-size: 150%; }
-		.highlightmeclosed { background-color:#ff9966; font-size: 150%; }
-		.highlightmereopen { background-color:#66ccff; font-size: 150%; }
-		
-		.cdate { background-color:#FFFF00; font-size: 150%; }
-	</style>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<div id="temp">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	</div>
-	 
