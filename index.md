@@ -23,7 +23,7 @@ Silverdale, WA 98383<br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.707223349842!2d-122.69196668436793!3d47.65125597918769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54903a9432099a4b%3A0x88500a0880d8fef4!2sHeidi\+Teriyaki\+Express!5e0!3m2!1sen!2sus!4v1469594514828" height="450" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe> 
  
-	
+		
 	<style>
 		.notice {text-align: center;}
 		.highlightme { background-color:#FFFF00; font-size: 150%; }
@@ -41,7 +41,7 @@ Silverdale, WA 98383<br/>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
-			var msec = Date.parse("December 26, 2019");
+			var msec = Date.parse("January  02, 2020");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
 			else
@@ -76,15 +76,12 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED for Chirstmas Holiday </b></span> <br> from <br> <span class="cdate"> December-24-2019 </span> to <span class="cdate">December-25-2019</span> <br>
-					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Thursday <br> <span class="cdate"> December-26-2019</span> <br><br>
-					<span>Thank you! Merry Christmas! Heidi's Teriyaki Express.</span>
+					We will be <span class="highlightmeclosed"><b>CLOSED for New Year Holiday </b></span> <br> from <br> <span class="cdate"> December-31-2019 </span> to <span class="cdate">January-01-2020</span> <br>
+					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Thursday <br> <span class="cdate"> January-02-2020</span> <br><br>
+					<span>Thank you! Happy New Year! Heidi's Teriyaki Express.</span>
 
 			</div>
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
-		
-
-	 
 		
