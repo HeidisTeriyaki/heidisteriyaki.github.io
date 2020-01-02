@@ -146,10 +146,9 @@ and a side of fish sauce</span><br/>
 <span>      <i>Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper</i></span><br/><br/>
 <li><b>Bottled & Canned Drinks</b></li>
 <span>      <i>Aquafina Water</i> $1.25</span><br/>
-<span>      <i>Yeo's Soymilk</i> $1.99</span><br/>
 <span>      <i>Orange Crush, Sierra Mist, Apple Juice</i> $2.25</span><br/>
 <span>      <i>Jarrito's Soda, Lipton's Tea, Coconut Juice</i> $2.25</span><br/>
-<span>      <i>Nesquick Chocolate Milk</i> $2.75</span><br/>
+<span>      <i>Nesquick Chocolate Milk</i> $2.95</span><br/>
 </ul>
 </p>
 
