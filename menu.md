@@ -100,11 +100,11 @@ and a side of fish sauce</span><br/>
 
 <p>
 <h1>Curry & Lemongrass</h1>
-<span>  <b>C1. Bún Cà Ri \[SPICY\]</b> $10.50</span><br/>
+<span>  <b>C1. Bún Cà Ri \[SPICY\]</b> $10.75</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork or Tofu</b> with lemongrass served with sticky rice noodles</span><br/>
-<span>  <b>C2. Vietnamese Lemongrass Chicken \[SPICY\]</b> $10.50</span><br/>
+<span>  <b>C2. Vietnamese Lemongrass Chicken \[SPICY\]</b> $10.75</span><br/>
 <span>      Stir fried lemongrass with your choice of <b>Chicken, Beef, Pork, or Tofu</b> served with steamed rice and an eggroll</span><br/>
-<span>  <b>C3. Vietnamese Curry Chicken with Lemongrass \[SPICY\]</b> $10.50</span><br/>
+<span>  <b>C3. Vietnamese Curry Chicken with Lemongrass \[SPICY\]</b> $10.75</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork, or Tofu</b> with lemongrass served with steamed rice and an eggroll</span><br/>
 </p>
 
@@ -157,7 +157,7 @@ and a side of fish sauce</span><br/>
 <h1>Homemade Beverages</h1>
 <ul>
 <li><b>Hot Jasmine Tea</b> $1.50</li>
-<li><b>Cà Phê Sữa Đá</b> $3.75</li>
+<li><b>Cà Phê Sữa Đá</b> $4.25</li>
 <span>      <i>Iced Espresso with Condensed Milk</i></span><br/>
 </ul>
 </p>
