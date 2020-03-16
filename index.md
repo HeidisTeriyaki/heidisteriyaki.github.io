@@ -77,7 +77,7 @@ Silverdale, WA 98383<br/>
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
 					<span class="cdate"> To our valued customers, Due to Coronavirus, ours restaurant will be closed until further notice. Thank you! Heidi’s Teriyaki </span><br><br>	 				
-
+ 
 			</div>
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
