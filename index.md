@@ -23,8 +23,7 @@ Silverdale, WA 98383<br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.707223349842!2d-122.69196668436793!3d47.65125597918769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54903a9432099a4b%3A0x88500a0880d8fef4!2sHeidi\+Teriyaki\+Express!5e0!3m2!1sen!2sus!4v1469594514828" height="450" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe> 
  
-		
-	<style>
+		<style>
 		.notice {text-align: center;}
 		.highlightme { background-color:#FFFF00; font-size: 150%; }
 		.highlightmeclosed { background-color:#ff9966; font-size: 150%; }
@@ -37,7 +36,7 @@ Silverdale, WA 98383<br/>
 	<div id="temp">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	</div>
-	 
+	
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
@@ -75,11 +74,16 @@ Silverdale, WA 98383<br/>
 			</div>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
-				To ours valued customer. <br>
-					<h4>We will be Re-open on Monday April-06 for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
+				<div class="notice">
+					To ours valued customer. <br>
+					<h4>We will be re-open on Monday April-06 for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
 					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
-					<span>Thank you for your understanding Heidi's teriyaki.</span>
+					<span>Thank you for your understanding Heidi's teriyaki Express.</span>
+
+			</div>
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
+		
+
 		
