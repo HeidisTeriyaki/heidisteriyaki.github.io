@@ -80,7 +80,7 @@ Silverdale, WA 98383<br/>
 					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
 					<span>Thank you for your understanding Heidi's teriyaki Express.</span>
 
-			</div>
+			</div> 
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>  
 			</div>
