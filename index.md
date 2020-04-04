@@ -75,7 +75,7 @@ Silverdale, WA 98383<br/>
 			</div>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
-				<To ours valued customer. <br>
+				To ours valued customer. <br>
 					<h4>We will be Re-open on Monday April-06 for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
 					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
 					<span>Thank you for your understanding Heidi's teriyaki.</span>
