@@ -78,7 +78,7 @@ Silverdale, WA 98383<br/>
 					To ours valued customer. <br>
 					<h4>From today forward,  <span class="highlightmereopen"><b>We will take orders</b></span>  for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
 					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
-					<span>Thank you for your understanding Heidi's teriyaki.</span>  b
+					<span>Thank you for your understanding Heidi's teriyaki.</span>  
 
 			</div> 
 			<div class="modal-footer">
