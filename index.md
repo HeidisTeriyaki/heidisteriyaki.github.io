@@ -52,7 +52,7 @@ Silverdale, WA 98383<br/>
 			$('#myModal').on('hidden.bs.modal', function () {
 				// do something…
 				if($("#temp").length > 0)
-					$("#temp").remove();
+					$("#temp").remove(); 
 			})			
 			
 		});
