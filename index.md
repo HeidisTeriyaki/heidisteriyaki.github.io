@@ -40,7 +40,7 @@ Silverdale, WA 98383<br/>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
-			var msec = Date.parse("November 27, 2020");
+			var msec = Date.parse("August 26, 2021");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
 			else
@@ -52,7 +52,7 @@ Silverdale, WA 98383<br/>
 			$('#myModal').on('hidden.bs.modal', function () {
 				// do something…
 				if($("#temp").length > 0)
-					$("#temp").remove(); 
+					$("#temp").remove();
 			})			
 			
 		});
@@ -76,14 +76,12 @@ Silverdale, WA 98383<br/>
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
 					To ours valued customer. <br>
-					<h4>From today forward,  <span class="highlightmereopen"><b>We will take orders</b></span>  for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
-<br><span class="highlightmeclosed"><b> Notes: We will be  CLOSED for ThanksGiving days </b></span> <br> <span class="cdate"> November-26-2020 </span> <br>
-					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Friday <br> <span class="cdate"> November-27-2020</span> <br><br>
+					<h4>From today forward, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
 					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
-					<span>Thank you for your understanding Heidi's teriyaki.</span>  
+					<span>Thank you for your understanding Heidi's teriyaki Express.</span>
 
-			</div> 
+			</div>
 			<div class="modal-footer">
-			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>  
+			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
 		
