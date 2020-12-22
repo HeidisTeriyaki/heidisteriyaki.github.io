@@ -8,7 +8,7 @@ layout: default
 
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
 
-<p><b>Hours:</b><br/> 
+<p><b>Hours:</b><br/>
 
 MON - SAT: 11:00 AM - 8:00 PM<br/> 
 SUN: CLOSED<br/> 
@@ -77,6 +77,7 @@ Silverdale, WA 98383<br/>
 				<div class="notice">
 					We will be <span class="highlightmeclosed"><b>CLOSED for Christmas </b></span> <br> from <br> <span class="cdate"> December-25-2020 </span> to <span class="cdate">December-27-2020</span> <br>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> December-28-2020</span> <br><br>
+					<h4>Note: Currently, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br><br>
 					<span>Thank you! Heidi's Teriyaki.</span>
 
 			</div>
