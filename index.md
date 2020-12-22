@@ -40,7 +40,7 @@ Silverdale, WA 98383<br/>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
-			var msec = Date.parse("August 26, 2021");
+			var msec = Date.parse("December 28, 2021");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
 			else
@@ -75,10 +75,9 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					To ours valued customer. <br>
-					<h4>From today forward, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br>
-					<h4>We are trying to be proactive to help minimize and prevent the spread of Corona virus. We care for everyone safety.</h4><br>
-					<span>Thank you for your understanding Heidi's teriyaki Express.</span>
+					We will be <span class="highlightmeclosed"><b>CLOSED for Christmas </b></span> <br> from <br> <span class="cdate"> December-25-2020 </span> to <span class="cdate">December-27-2020</span> <br>
+					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> December-28-2020</span> <br><br>
+					<span>Thank you! Heidi's Teriyaki.</span>
 
 			</div>
 			<div class="modal-footer">
