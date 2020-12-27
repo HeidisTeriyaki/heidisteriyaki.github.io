@@ -80,7 +80,7 @@ Silverdale, WA 98383<br/>
 					<h4>Note: Currently, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br><br>
 					<span>Thank you! Heidi's Teriyaki.</span>
 
-			</div>
+			</div> 
 			<div class="modal-footer">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 			</div>
