@@ -75,8 +75,8 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					<h4> Due to Corona Virus pandemic! Currently, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br><br>
-					<span>Thank you! Heidi's Teriyaki.</span>
+					<h4> Due to Pandemic!  Currently, our restaurant take orders for</h4> <span class="cdate"> CARRY-OUT ONLY </span><br><br>
+					<span>Thank you for understanding! Heidi's Teriyaki.</span>
 
 			</div> 
 			<div class="modal-footer">
