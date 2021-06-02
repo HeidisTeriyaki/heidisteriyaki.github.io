@@ -5,7 +5,7 @@ layout: default
 ---
 
 ![Heidi's Teriyaki Express Storefront](/uploads/storefront.jpg)
-
+ 
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
 
 <p><b>Hours:</b><br/>
