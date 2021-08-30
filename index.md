@@ -74,7 +74,7 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED for Labor's Day </b></span> <br> from <br> <span class="cdate"> September-04-2021 </span> to <span class="cdate">September-06-2021</span> <br>
+					We will be <span class="highlightmeclosed"><b>CLOSED for Labor Day </b></span> <br> from <br> <span class="cdate"> September-04-2021 </span> to <span class="cdate">September-06-2021</span> <br>
 					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Tuesday <br> <span class="cdate"> September-07-2021</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki Express.</span>
 
