@@ -35,7 +35,7 @@ Silverdale, WA 98383<br/>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<div id="temp">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	</div>
+	</div> 
 <script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
