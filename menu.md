@@ -142,20 +142,20 @@ and a side of fish sauce</span><br/>
 <p>
 <h1>Beverages</h1>
 <ul>
-<li><b>Fountain Drinks</b> $2.50</li>
+<li><b>Fountain Drinks</b> $2.75</li>
 <span>      <i>Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper</i></span><br/><br/>
 <li><b>Bottled & Canned Drinks</b></li>
-<span>      <i>Aquafina Water</i> $1.25</span><br/>
-<span>      <i>Orange Crush, Sierra Mist, Apple Juice</i> $2.50</span><br/>
-<span>      <i>Jarrito's Soda, Lipton's Tea, Coconut Juice</i> $2.50</span><br/>
+<span>      <i>Aquafina Water</i> $1.50</span><br/>
+<span>      <i>Jarrito's Soda, Orange Crush, Sierra Mist, Apple Juice</i> $2.75</span><br/>
+<span>      <i>, Thai Tea, Coconut Juice</i> $3.25</span><br/>
 </ul>
 </p>
 
 <p>
 <h1>Homemade Beverages</h1>
 <ul>
-<li><b>Hot Jasmine Tea</b> $1.50</li>
-<li><b>Cà Phê Sữa Đá</b> $4.50</li>
+<li><b>Hot Jasmine Tea</b> $2.00</li>
+<li><b>Cà Phê Sữa Đá</b> $5.00</li>
 <span>      <i>Iced Espresso with Condensed Milk</i></span><br/>
 </ul>
 </p>
