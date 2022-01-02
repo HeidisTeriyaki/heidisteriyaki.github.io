@@ -147,7 +147,7 @@ and a side of fish sauce</span><br/>
 <li><b>Bottled & Canned Drinks</b></li>
 <span>      <i>Aquafina Water</i> $1.50</span><br/>
 <span>      <i>Jarrito's Soda, Orange Crush, Sierra Mist, Apple Juice</i> $2.75</span><br/>
-<span>      <i>, Thai Tea, Coconut Juice</i> $3.25</span><br/>
+<span>      <i>Thai Tea, Coconut Juice</i> $3.25</span><br/>
 </ul>
 </p>
 
