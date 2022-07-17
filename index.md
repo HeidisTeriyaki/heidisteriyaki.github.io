@@ -41,7 +41,7 @@ Silverdale, WA 98383<br/>
 	<script>
 		$( document ).ready(function(){
 			var timeInMs = Date.now();			
-			var msec = Date.parse("July 17, 2022");
+			var msec = Date.parse("July 25, 2022");
 			if(timeInMs < msec)
 				$("#btn_modal").click();
 			else
@@ -76,8 +76,8 @@ Silverdale, WA 98383<br/>
 			<div class="modal-body">
 			  <p style="word-wrap: break-word;">
 				<div class="notice">
-					We will be <span class="highlightmeclosed"><b>CLOSED for Summer Break </b></span> <br> from <br> <span class="cdate"> June-30-2022 </span> to <span class="cdate">July-17-2022</span> <br>
-					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> July-18-2022</span> <br><br>
+					We will be <span class="highlightmeclosed"><b>CLOSED for Summer Break </b></span> <br> from <br> <span class="cdate"> June-30-2022 </span> to <span class="cdate">July-24-2022</span> <br>
+					And <br> <span class="highlightmereopen"><b>RE-OPEN</b></span><br> on Monday <br> <span class="cdate"> July-25-2022</span> <br><br>
 					<span>Thank you! Heidi's Teriyaki.</span>
 
 			</div>
