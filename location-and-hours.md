@@ -10,7 +10,7 @@ layout: page
 <p><b>Hours:</b><br/>
 
 MON - FRI: 11:00 AM - 8:00 PM<br/>
-SAT, SUN: CLOSED<br/>
+SAT, SUN: CLOSED<br/> 
 (Dine-In Closed @ 7:50PM--Take-Out ONLY)<br/>
 <p/>
 
