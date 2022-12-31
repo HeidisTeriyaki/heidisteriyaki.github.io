@@ -40,7 +40,7 @@ layout: page
 </p>
 
 <p>
-<h1>Teriyaki</h1>
+<h1>Teriyaki </h1>
 <span>  <b>T1. Chicken Teriyaki</b> $12.50</span><br/>
 <span>  <b>T2. Pork Teriyaki</b> $13</span><br/>
 <span>  <b>T3. Beef Teriyaki</b> $13</span><br/>
