@@ -5,7 +5,7 @@ position: 2
 layout: page
 ---
 
-<span>*<i>Menu and prices are subject to change without notice --- 01/01/2022</i>*</span><br/>
+<span>*<i>Menu and prices are subject to change without notice --- 01/01/2023</i>*</span><br/>
 <p>
 <h1>Appetizers</h1>
 <ul>
