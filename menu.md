@@ -21,7 +21,7 @@ layout: page
 <p>
 <h1>Phở</h1>
 <span><i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprout, basil, jalapeños & lime</i></span> <br/><br/>
-<span>  <b>P1. Phở Đặc Biệt</b> $15.00</span><br/>
+<span>  <b>P1. Phở Đặc Biệt</b> $15</span><br/>
 <span>       Served with eye of round steak, tender brisket, soft tendon, & tripe</span><br/>
 <span>  <b>P2. Phở Tái Bò Viên</b> $14</span><br/>
 <span>       Served with eye of round steak & Vietnamese meatball</span><br/>
