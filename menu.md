@@ -161,7 +161,7 @@ and a side of fish sauce</span><br/>
 </p>
 
 <p>
-<span>***<i><b>Please let us know if you have any FOOD ALLERGIES before you order</b></i>***</span><br/>
+<span>***<i><b>Please let us know if you have any FOOD ALLERGIES before you order</b></i>***</span><br/> 
 <span>***<i><b>Please order according to the menu, a surcharge may incur if modifications to dishes are made</b></i>***</span><br/>
 <span>***<i><b>Additional fees for extra sauce, meats, vegetables, etc. may apply</b></i>***</span><br/>
 <span>***<i><b>No replacements can be done after food is served, please order accordingly</b></i>***</span><br/>
