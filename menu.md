@@ -10,10 +10,10 @@ layout: page
 <h1>Appetizers</h1>
 <ul>
 <li><b>A1. Fried Bean Curd Skin Wrap Salad</b> (Tàu Hũ Ki) $8.75</li>
-<li><b>A2. Fresh Spring Roll</b> (Gỏi Cuốn) 2 for $8</li>
-<li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $8</li>
-<li><b>A4. Potstickers</b> (Gyōza) 6 for $8</li>
-<li><b>A5. Crab Cream Cheese Wonton</b> 6 for $8</li>
+<li><b>A2. Fresh Spring Roll</b> (Gỏi Cuốn) 2 for $8.00</li>
+<li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $8.00</li>
+<li><b>A4. Potstickers</b> (Gyōza) 6 for $8.00</li>
+<li><b>A5. Crab Cream Cheese Wonton</b> 6 for $8.00</li>
 <span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</i></span>
 </ul>
 </p> 
@@ -21,18 +21,18 @@ layout: page
 <p>
 <h1>Phở</h1>
 <span><i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprout, basil, jalapeños & lime</i></span> <br/><br/>
-<span>  <b>P1. Phở Đặc Biệt</b> $15</span><br/>
+<span>  <b>P1. Phở Đặc Biệt</b> $15.00</span><br/>
 <span>       Served with eye of round steak, tender brisket, soft tendon, & tripe</span><br/>
-<span>  <b>P2. Phở Tái Bò Viên</b> $14</span><br/>
+<span>  <b>P2. Phở Tái Bò Viên</b> $14.00</span><br/>
 <span>       Served with eye of round steak & Vietnamese meatball</span><br/>
-<span>  <b>P3. Phở Tái</b> $14</span><br/>
+<span>  <b>P3. Phở Tái</b> $14.00</span><br/>
 <span>       Served with eye of round steak</span><br/>
-<span>  <b>P4. Phở Tái Nạm</b> $14</span><br/>
+<span>  <b>P4. Phở Tái Nạm</b> $14.00</span><br/>
 <span>       Served with eye of round steak & tender brisket</span><br/>
-<span>  <b>P5. Phở Gà</b> $14</span><br/>
+<span>  <b>P5. Phở Gà</b> $14.00</span><br/>
 <span>       Served with chicken</span><br/>
-<span>  <b>P6. Pho Tàu Hũ</b> $14</span><br/><span>       Served with tofu</span><br/>
-<span>  <b>P7. Phở Tôm</b> $15</span><br/>
+<span>  <b>P6. Pho Tàu Hũ</b> $14.00</span><br/><span>       Served with tofu</span><br/>
+<span>  <b>P7. Phở Tôm</b> $15.00</span><br/>
 <span>       Served with shrimp</span><br/><br/>
 <span>  <b>Phở Broth</b> $7.50</span> &nbsp;&nbsp; <span>  <b>Extra meats</b> $5.00</span>  &nbsp;&nbsp;<span>  <b>Extra noodle</b> $3.00</span><br/><br/>
       <span>***<i><b>Phở</b> for <b>Take-Out</b> is <b>Large</b> sized orders <b>ONLY</b></i>***</span>
@@ -42,16 +42,16 @@ layout: page
 <p>
 <h1>Teriyaki </h1>
 <span>  <b>T1. Chicken Teriyaki</b> $12.50</span><br/>
-<span>  <b>T2. Pork Teriyaki</b> $13</span><br/>
-<span>  <b>T3. Beef Teriyaki</b> $13</span><br/>
-<span>  <b>T4. Chicken & Pork</b> $14</span><br/>
-<span>  <b>T5. Pork & Beef</b> $14</span><br/>
-<span>  <b>T6. Chicken & Beef</b> $14</span><br/>
-<span>  <b>T7. Heidi's Special</b> $15</span><br/>
+<span>  <b>T2. Pork Teriyaki</b> $13.00</span><br/>
+<span>  <b>T3. Beef Teriyaki</b> $13.00</span><br/>
+<span>  <b>T4. Chicken & Pork</b> $14.00</span><br/>
+<span>  <b>T5. Pork & Beef</b> $14.00</span><br/>
+<span>  <b>T6. Chicken & Beef</b> $14.00</span><br/>
+<span>  <b>T7. Heidi's Special</b> $15.00</span><br/>
 <span>      Combination of beef, chicken, pork teriyaki with an eggroll</span><br/>
-<span>  <b>T8. Sweet & Sour Special</b> $14</span><br/>
+<span>  <b>T8. Sweet & Sour Special</b> $14.00</span><br/>
 <span>      Combination of sweet & sour chicken and chicken teriyaki</span><br/><br/>
-<span>***<i><b>T9. 1/2 Order Teriyaki Dishes</b> of either <b>Chicken, Beef, or Pork ONLY</b> are served <b>ONLY</b> with steamed rice for $9</i>***</span> <br/>
+<span>***<i><b>T9. 1/2 Order Teriyaki Dishes</b> of either <b>Chicken, Beef, or Pork ONLY</b> are served <b>ONLY</b> with steamed rice for $9.00</i>***</span> <br/>
 
 <span>***<i><b>You may SUBSTITUTE Fried Rice or Vegetable Chow Mein or Salad INSTEAD of Steamed Rice for an ADDITIONAL $3.00 on some Teriyaki items</b></i>***</span>
 </p>
@@ -91,7 +91,7 @@ layout: page
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $13.50</span> <br/>
 <span>      - <b>2 Meat Combo</b> $14.50 \~ <b>3 Meat Combo</b> $15.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Broccoli</b> $15.00</span><br/>
-<span>  <b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $17</span><br/>
+<span>  <b>S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng</b> $17.00</span><br/>
 <span>      Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles,
 and a side of fish sauce</span><br/>
 <span>  <b>S11. Tôm Rang Muối \[SPICY\]</b> $15.00</span><br/>
@@ -124,8 +124,8 @@ and a side of fish sauce</span><br/>
 
 <p>
 <h1>Veggies and Tofu Dishes</h1>
-<span>  <b>V1. Tofu Spring Rolls</b> 2 for $8</span><br/>
-<span>  <b>V2. Crab Cream Cheese Wonton</b> 6 for $8</span><br/>
+<span>  <b>V1. Tofu Spring Rolls</b> 2 for $8.00</span><br/>
+<span>  <b>V2. Crab Cream Cheese Wonton</b> 6 for $8.00</span><br/>
 <span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</span><br/>           <span>  <b>V3. Tofu Teriyaki</b> $12.50</span><br/>
 <span>      Tofu served with steamed rice & vegetable chow mein</span><br/>
 <span>  <b>V4. Tofu Chow Mein</b> $13.50</span><br/>
@@ -136,7 +136,7 @@ and a side of fish sauce</span><br/>
 <span>  <b>V8. Tofu Vermicelli Bowl</b> $13.50</span><br/>
 <span>      Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side</span><br/>
 <span>  <b>V9. Vegetable Yakisoba</b> $12.50</span><br/>
-<span>  <b>V10. Phở Vegetables</b>(Beef bones broth) $14</span><br/>
+<span>  <b>V10. Phở Vegetables</b>(Beef bones broth) $14.00</span><br/>
 <span>  <b>V11. Tofu Stir Fried w/Mix Vegetables </b> $13.50</span><br/>
 
 <p>
