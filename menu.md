@@ -32,7 +32,7 @@ layout: page
 <span>  <b>P5. Phở Gà</b> $14</span><br/>
 <span>       Served with chicken</span><br/>
 <span>  <b>P6. Pho Tàu Hũ</b> $14</span><br/><span>       Served with tofu</span><br/>
-<span>  <b>P7. Phở Tôm</b> $15.00</span><br/>
+<span>  <b>P7. Phở Tôm</b> $15</span><br/>
 <span>       Served with shrimp</span><br/><br/>
 <span>  <b>Phở Broth</b> $7.50</span> &nbsp;&nbsp; <span>  <b>Extra meats</b> $5.00</span>  &nbsp;&nbsp;<span>  <b>Extra noodle</b> $3.00</span><br/><br/>
       <span>***<i><b>Phở</b> for <b>Take-Out</b> is <b>Large</b> sized orders <b>ONLY</b></i>***</span>
