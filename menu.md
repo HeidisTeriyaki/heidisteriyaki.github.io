@@ -167,5 +167,5 @@ and a side of fish sauce</span><br/>
 <span>***<i><b>No replacements can be done after food is served, please order accordingly</b></i>***</span><br/>
 <span>***<i><b>Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness.</b></i>***</span><br/>
 <span>***<i><b>Menu and prices subject to change without notice (Effective 01/01/2023)</b></i>***</span><br/>
-   
+      
 <br/><br/>
