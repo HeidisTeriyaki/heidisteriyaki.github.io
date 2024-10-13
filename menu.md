@@ -9,7 +9,7 @@ layout: page
 <p>
 <h1>Appetizers</h1>
 <ul>
-<li><b>A1. Fried Bean Curd Skin Wrap Salad</b> (Tàu Hũ Ki) $8.75</li>
+<li><b><a href="/tau-hu-ki.html">A1. Fried Bean Curd Skin Wrap Salad</a></b> (Tàu Hũ Ki) $8.75</li>
 <li><b>A2. Fresh Spring Roll</b> (Gỏi Cuốn) 2 for $8.00</li>
 <li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $8.00</li>
 <li><b>A4. Potstickers</b> (Gyōza) 6 for $8.00</li>
@@ -41,7 +41,7 @@ layout: page
 
 <p>
 <h1>Teriyaki </h1>
-<span>  <b>T1. Chicken Teriyaki</b> $12.50</span><br/>
+<span>  <b><a href="/chicken-teriyaki.html">T1. Chicken Teriyaki</a></b> $12.50</span><br/>
 <span>  <b>T2. Pork Teriyaki</b> $13.00</span><br/>
 <span>  <b>T3. Beef Teriyaki</b> $13.00</span><br/>
 <span>  <b>T4. Chicken & Pork</b> $14.00</span><br/>
@@ -49,7 +49,7 @@ layout: page
 <span>  <b>T6. Chicken & Beef</b> $14.00</span><br/>
 <span>  <b>T7. Heidi's Special</b> $15.00</span><br/>
 <span>      Combination of beef, chicken, pork teriyaki with an eggroll</span><br/>
-<span>  <b>T8. Sweet & Sour Special</b> $14.00</span><br/>
+<span>  <b><a href="/sweet-and-sour-special.html">T8. Sweet & Sour Special</a></b> $14.00</span><br/>
 <span>      Combination of sweet & sour chicken and chicken teriyaki</span><br/><br/>
 <span>***<i><b>T9. 1/2 Order Teriyaki Dishes</b> of either <b>Chicken, Beef, or Pork ONLY</b> are served <b>ONLY</b> with steamed rice for $9.00</i>***</span> <br/>
 
@@ -59,7 +59,7 @@ layout: page
 
 <p>
 <h1>Fried Rice</h1>
-<span>  <b>F1. Fried Rice: Chicken, Beef, Pork, or Tofu</b> $13.50</span><br/>
+<span>  <b><a href="/fried-rice-chicken-beef-pork-or-tofu.html">F1. Fried Rice: Chicken, Beef, Pork, or Tofu</a></b> $13.50</span><br/>
 <span>      <b>2 Meat Combo</b> $14.50 \~ <b>3 Meat Combo</b> $15.50</span><br/>
 <span>  <b>F2. Shrimp Fried Rice</b> $15.00</span><br/><br/>
 
@@ -76,9 +76,9 @@ layout: page
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $13.50 </span> <br/>
 <span>      - <b>2 Meat Combo</b> $14.50 \~ <b>3 Meat Combo</b> $15.50</span><br/>
 <span>		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Yakisoba</b> $15.00</span><br/>
-<span>  <b>S4. Bún Bò Huế \[SPICY\]</b> $14.50</span><br/>
+<span>  <b><a href="/bun-bo-hue-spicy.html">S4. Bún Bò Huế \[SPICY\]</a></b> $14.50</span><br/>
 <span>      Spicy beef noodle soup</span><br/>
-<span>  <b>S5. Hủ Tiếu Mi Thập Cẩm</b> $14.50</span><br/>
+<span>  <b><a href="/hu-tieu-mi-thap-cam.html">S5. Hủ Tiếu Mi Thập Cẩm</a></b> $14.50</span><br/>
 <span>      Rice noodle & egg noodle soup with sliced pork, shrimp, and crab</span><br/>
 <span>  <b>S6. Chowmein Noodle</b></span><br/>
 <span>      Stir-fried with vegetables and chowmein noodles </span><br/>
@@ -118,7 +118,7 @@ and a side of fish sauce</span><br/>
 <span>      Combo grilled pork & eggrolls</span><br/>
 <span>  <b>B4. Bún Chả Giò</b> $13.50</span><br/>
 <span>      Fried egg rolls</span><br/>
-<span>  <b>B5. Bún Đặc Biệt</b> $15.00</span><br/>
+<span>  <b><a href="/bun-dac-biet.html">B5. Bún Đặc Biệt</a></b> $15.00</span><br/>
 <span>      Combo grilled pork, tofu wrap, shrimp, and egg rolls</span><br/>
 </p>
 
