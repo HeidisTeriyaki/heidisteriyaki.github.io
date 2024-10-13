@@ -104,7 +104,7 @@ and a side of fish sauce</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork or Tofu</b> with lemongrass served with sticky rice noodles</span><br/>
 <span>  <b>C2. Vietnamese Lemongrass Chicken \[SPICY\]</b> $14.50</span><br/>
 <span>      Stir fried lemongrass with your choice of <b>Chicken, Beef, Pork, or Tofu</b> served with steamed rice and an eggroll</span><br/>
-<span>  <b>C3. Vietnamese Curry Chicken with Lemongrass \[SPICY\]</b> $14.50</span><br/>
+<span>  <b><a href="https://www.heidisteriyaki.org/vietnamese-curry-chicken-with-lemongrass-spicy.html">C3. Vietnamese Curry Chicken with Lemongrass \[SPICY\]</a></b> $14.50</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork, or Tofu</b> with lemongrass served with steamed rice and an eggroll</span><br/>
 </p>
 
