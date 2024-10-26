@@ -14,7 +14,7 @@ layout: page
       
       {% for item in category.items %}
         <div class="menu-item">
-          <h3>{{ item.title }}</h3>
+          <p>{{ item.title }}</p>
           <p>{{ item.description }}</p>
           <p><strong>Price:</strong> {{ item.price }}</p>
           
