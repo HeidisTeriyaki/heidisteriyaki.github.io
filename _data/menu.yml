@@ -4,7 +4,7 @@ categories:
       - title: A1. Fried Bean Curd Skin Wrap Salad (Tàu Hũ Ki)
         description: idk # Sample
         price: "$8.75"
-        image: "/_uploads/A1.JPG" # Add image paths like this
+        image: ".../_uploads/A1.JPG" # Add image paths like this
   - name: Phở
     items:
       
