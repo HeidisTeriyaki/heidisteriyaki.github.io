@@ -14,7 +14,7 @@ layout: page
       
       {% for item in category.items %}
         <div class="menu-item">
-          <p>{{ item.title }} {{ item.price }}</p>
+          <p><strong>{{ item.title }}</strong> {{ item.price }}</p>
           <p>{{ item.description }}</p>
           
           <!-- Display image if it exists -->
