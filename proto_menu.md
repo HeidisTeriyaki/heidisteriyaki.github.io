@@ -15,7 +15,9 @@ layout: page
       {% for item in category.items %}
         <div class="menu-item">
           <span><strong>{{ item.title }}</strong> {{ item.price }}</span>
+          <br>
           <span>{{ item.description }}</span>
+          <br>
           
           <!-- Display image if it exists -->
           {% if item.image %}
