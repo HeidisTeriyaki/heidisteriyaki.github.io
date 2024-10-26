@@ -1,6 +1,6 @@
 ---
 title: Menu
-permalink: "/menu/"
+permalink: "/proto_menu"
 position: 2
 layout: page
 ---
