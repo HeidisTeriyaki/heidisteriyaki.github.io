@@ -20,7 +20,7 @@ layout: page
           
           <!-- Display image if it exists -->
           {% if item.image %}
-            <img src="{{ item.image }}" alt="{{ item.description }}" class="preview-panel">
+            <img src="{{ item.image }}" alt="{{ item.description }}" class="preview-panel col-sm-4">
           {% endif %}
         </div>
       {% endfor %}
