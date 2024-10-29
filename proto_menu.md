@@ -18,7 +18,7 @@ layout: page
           <br>
           
           {% if item.description %}
-            <span>&nbsp;{{ item.description }}</span>
+            <span style="margin-left: 20px;">{{ item.description }}</span>
             <br>
           {% endif %}
           
