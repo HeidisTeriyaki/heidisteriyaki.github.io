@@ -16,10 +16,8 @@ layout: page
         <div class="menu-item">
           <span><strong>{{ item.title }}</strong> {{ item.price }}</span>
           <br>
-          {% if item.description %}
-            <span>{{ item.description }}</span>
-            <br>
-          {% end if %}
+          <span>{{ item.description }}</span>
+          <br>
           
           {% if item.image %}
             <img src="{{ item.image }}" alt="{{ item.description }}" class="preview-panel col-sm-4">
