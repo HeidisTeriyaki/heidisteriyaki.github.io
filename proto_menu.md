@@ -6,6 +6,7 @@ layout: page
 ---
 
 <div class="menu-page">
+<span>*<i>Menu and prices are subject to change without notice --- 01/01/2023</i>*</span><br/>
 
   {% for category in site.data.menu.categories %}
     <h2>{{ category.name }}</h2>
