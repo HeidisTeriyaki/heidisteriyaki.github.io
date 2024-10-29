@@ -1,54 +1,55 @@
 categories:
-  - name: Appetizers
+  - name: "Appetizers"
+    head: 
     items:
-      - title: A1. Fried Bean Curd Skin Wrap Salad (Tàu Hũ Ki)
+      - title: "A1. Fried Bean Curd Skin Wrap Salad (Tàu Hũ Ki)"
         description: # Sample
         price: "$8.75"
         image: "uploads/A1.JPG"
-      - title: A2. Fresh Spring Roll (Gỏi Cuốn) 2 for
+      - title: "A2. Fresh Spring Roll (Gỏi Cuốn) 2 for"
         description: # Sample
         price: "$8.00"
         image: # image path
-      - title: A3. Fried Egg Roll (Chả Giò or Lumpia) 5 for
+      - title: "A3. Fried Egg Roll (Chả Giò or Lumpia) 5 for"
         description: # Sample
         price: "$8.00"
         image: # image path
-      - title: A4. Potstickers (Gyōza) 6 for
+      - title: "A4. Potstickers (Gyōza) 6 for"
         description: # Sample
         price: "$8.00"
         image: # image path
-      - title: A5. Crab Cream Cheese Wonton 6 for
-        description: Our wontons are stuffed with crab, cream cheese, & spices
+      - title: "A5. Crab Cream Cheese Wonton 6 for"
+        description: "Our wontons are stuffed with crab, cream cheese, & spices"
         price: "$8.00"
         image: # image path
-  - name: Phở
+  - name: "Phở"
     items:
-      - title: P1. Phở Đặc Biệt
-        description: Served with eye of round steak, tender brisket, soft tendon, & tripe
+      - title: "P1. Phở Đặc Biệt"
+        description: "Served with eye of round steak, tender brisket, soft tendon, & tripe"
         price: "$15.00"
         image: # image path
-      - title: P2. Phở Tái Bò Viên
-        description: Served with eye of round steak & Vietnamese meatball
+      - title: "P2. Phở Tái Bò Viên"
+        description: "Served with eye of round steak & Vietnamese meatball"
         price: "$14.00"
         image: # image path
-      - title: P3. Phở Tái
-        description: Served with eye of round steak
+      - title: "P3. Phở Tái"
+        description: "Served with eye of round steak"
         price: "$14.00"
         image: # image path
-      - title: P4. Phở Tái Nạm
-        description: Served with eye of round steak & tender brisket
+      - title: "P4. Phở Tái Nạm"
+        description: "Served with eye of round steak & tender brisket"
         price: "$14.00"
         image: # image path
-      - title: P5. Phở Gà
-        description: Served with chicken
+      - title: "P5. Phở Gà"
+        description: "Served with chicken"
         price: "$14.00"
         image: # image path
-      - title: P6. Pho Tàu Hũ
-        description: Served with tofu
+      - title: "P6. Pho Tàu Hũ"
+        description: "Served with tofu"
         price: "$14.00"
         image: # image path
-      - title: P7. Phở Tôm
-        description: Served with shrimp
+      - title: "P7. Phở Tôm"
+        description: "Served with shrimp"
         price: "$15.00"
         image: # image path
       
