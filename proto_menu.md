@@ -6,7 +6,6 @@ layout: page
 ---
 
 <div class="menu-page">
-  <h1>{{ page.title }}</h1>
 
   {% for category in site.data.menu.categories %}
     <h2>{{ category.name }}</h2>
