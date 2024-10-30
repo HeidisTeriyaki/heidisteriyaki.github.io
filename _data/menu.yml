@@ -52,4 +52,195 @@ categories:
         description: "Served with shrimp"
         price: "$15.00"
         image: # image path
-      
+  - name: "Teriyaki"
+    items:
+      - title: "T1. Chicken Teriyaki"
+        description:
+        price: "$12.50"
+        image: # image path
+      - title: "T2. Pork Teriyaki"
+        description:
+        price: "$13.00"
+        image: # image path
+      - title: "T3. Beef Teriyaki"
+        description:
+        price: "$13.00"
+        image: # image path
+      - title: "T4. Chicken & Pork"
+        description:
+        price: "$14.00"
+        image: # image path
+      - title: "T5. Pork & Beef"
+        description:
+        price: "$14.00"
+        image: # image path
+      - title: "T6. Chicken & Beef"
+        description:
+        price: "$14.00"
+        image: # image path
+      - title: "T7. Heidi's Special"
+        description: "Combination of beef, chicken, pork teriyaki with an eggroll"
+        price: "$15.00"
+        image: # image path
+      - title: "T8. Sweet & Sour Special"
+        description: "Combination of sweet & sour chicken and chicken teriyaki"
+        price: "$14.00"
+        image: # image path
+  - name: "Fried Rice"
+    items:
+      - title: "F1. Fried Rice: Chicken, Beef, Pork, or Tofu"
+        description:
+        price: "$13.50"
+        image: # image path
+      - title: "F2. Shrimp Fried Rice"
+        description:
+        price: "$15.00"
+        image: # image path
+  - name: "Specialties"
+    items:
+      - title: "S1. Bánh Xèo"
+        description: "Vietnamese crepe with shrimp, pork, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping"
+        price: "$15.00"
+        image: # image path
+      - title: "S2. Vietnamese Beef Salad"
+        description: "Vietnamese beef salad served with a bowl of steamed rice"
+        price: "$13.50"
+        image: # image path
+      - title: "S3. Yakisoba Noodle"
+        description: "<span>Stir fried with vegetables, yakisoba noodle & sauce</span><br><ul><li>Chicken, Beef, Pork, or Tofu $13.50</li><li>2 Meat Combo $14.50 \~ 3 Meat Combo $15.50</li><li>Shrimp Yakisoba $15.00</li></ul>"
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+  - name: "Curry & Lemongrass"
+    items:
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+  - name: "Vermicelli Bowls"
+    items:
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+  - name: "Veggies and Tofu Dishes"
+    items:
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+  - name: "Beverages"
+    items:
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+  - name: "Homemade Beverages"
+    items:
+      - title: ""
+        description:
+        price: ""
+        image: # image path
+      - title: ""
+        description:
+        price: ""
+        image: # image path
