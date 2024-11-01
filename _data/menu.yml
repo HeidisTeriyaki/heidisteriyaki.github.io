@@ -247,11 +247,14 @@ categories:
         image: # image path
   - name: "Homemade Beverages"
     items:
-      - title: ""
+      - title: |
+          <ul style="margin-bottom: -23px;"><li>Hot Jasmine Tea<span style="font-weight: normal;"> $2.50</span></li></ul>
         description:
         price: ""
         image: # image path
-      - title: ""
-        description:
+      - title: |
+          <ul style="margin-bottom: -23px;"><li>Cà Phê Sữa Đá<span style="font-weight: normal;"> $5.50</span></li></ul>
+        description: |
+          <span style="margin-left: 30px;">Iced Espresso with Condensed Milk</span>
         price: ""
         image: # image path
