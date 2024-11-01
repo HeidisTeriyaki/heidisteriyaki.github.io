@@ -242,7 +242,7 @@ categories:
       - title: |
           <ul style="margin-bottom: -23px;"><li>Bottled & Canned Drinks</li></ul>
         description: |
-          <ul style="list-style: none; margin-bottom: -23px; margin-top: -23px; margin-left: 30px;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
+          <ul style="list-style: none; margin-bottom: -23px; margin-top: -23px; margin-left: 55px;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
         price: ""
         image: # image path
   - name: "Homemade Beverages"
