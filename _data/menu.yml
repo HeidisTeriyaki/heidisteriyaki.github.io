@@ -89,7 +89,8 @@ categories:
   - name: "Fried Rice"
     items:
       - title: "F1. Fried Rice: Chicken, Beef, Pork, or Tofu"
-        description: "<strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50"
+        description: |
+          <strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50
         price: "$13.50"
         image: # image path
       - title: "F2. Shrimp Fried Rice"
@@ -115,33 +116,35 @@ categories:
         description: "Spicy beef noodle soup"
         price: "$14.50"
         image: # image path
-      - title: ""
-        description:
+      - title: "S5. Hủ Tiếu Mi Thập Cẩm"
+        description: "Rice noodle & egg noodle soup with sliced pork, shrimp, and crab"
+        price: "$14.50"
+        image: # image path
+      - title: "S6. Chowmein Noodle"
+        description: |
+          <span>Stir-fried with vegetables and chowmein noodles</span><ul style="margin-bottom: -23px"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Chowmein</strong> $15.00</li></ul>
         price: ""
         image: # image path
-      - title: ""
+      - title: "S7. General Tso's Chicken [SPICY]"
         description:
+        price: "$13.00"
+        image: # image path
+      - title: "S8. Orange Chicken \[SPICY\]"
+        description:
+        price: "$13.00"
+        image: # image path
+      - title: "S9. Broccoli Stir Fried"
+        description: |
+          <ul style="margin-bottom: -23px"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Broccoli</strong> $15.00</li></ul>
         price: ""
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng"
+        description: "Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles, and a side of fish sauce"
+        price: "$17.00"
         image: # image path
-      - title: ""
-        description:
-        price: ""
-        image: # image path
-      - title: ""
-        description:
-        price: ""
-        image: # image path
-      - title: ""
-        description:
-        price: ""
-        image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "S11. Tôm Rang Muối [SPICY]"
+        description: "Stir fried shrimp with broccoli, onion, garlic, and jalapeños served with steamed rice--with a side of salted lime juice for dipping"
+        price: "$15.00"
         image: # image path
   - name: "Curry & Lemongrass"
     items:
