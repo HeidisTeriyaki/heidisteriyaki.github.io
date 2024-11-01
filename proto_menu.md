@@ -6,9 +6,12 @@ layout: page
 ---
 
 <div class="menu-page">
-<span>*<i>Menu and prices are subject to change without notice --- 01/01/2023</i>*</span><br/>
+  <span>*<i>Menu and prices are subject to change without notice --- 01/01/2023</i>*</span><br/>
 
   {% for category in site.data.menu.categories %}
+    {% if category.head %}
+      <div>{{ category.head }}</div>
+    {% endif %}
     <h2>{{ category.name }}</h2>
     <div class="category-section">
       
@@ -27,8 +30,21 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
-      
+
     </div>
+
+    
+    {% if category.foot %}
+      <div>{{ category.foot }}</div>
+    {% endif %}
   {% endfor %}
+  <div>
+    ***Please let us know if you have any FOOD ALLERGIES before you order***
+    ***Please order according to the menu, a surcharge may incur if modifications to dishes are made***
+    ***Additional fees for extra sauce, meats, vegetables, etc. may apply***
+    ***No replacements can be done after food is served, please order accordingly***
+    ***Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness.***
+    ***Menu and prices subject to change without notice (Effective 01/01/2023)***
+  </div>
 </div>
 
