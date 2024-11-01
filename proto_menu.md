@@ -39,12 +39,14 @@ layout: page
     {% endif %}
   {% endfor %}
   <div>
-    ***Please let us know if you have any FOOD ALLERGIES before you order***
-    ***Please order according to the menu, a surcharge may incur if modifications to dishes are made***
-    ***Additional fees for extra sauce, meats, vegetables, etc. may apply***
-    ***No replacements can be done after food is served, please order accordingly***
-    ***Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness.***
-    ***Menu and prices subject to change without notice (Effective 01/01/2023)***
+    <strong>
+      ***Please let us know if you have any FOOD ALLERGIES before you order***<br>
+      ***Please order according to the menu, a surcharge may incur if modifications to dishes are made***<br>
+      ***Additional fees for extra sauce, meats, vegetables, etc. may apply***<br>
+      ***No replacements can be done after food is served, please order accordingly***<br>
+      ***Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness.***<br>
+      ***Menu and prices subject to change without notice (Effective 01/01/2023)***<br>
+    </strong>
   </div>
 </div>
 
