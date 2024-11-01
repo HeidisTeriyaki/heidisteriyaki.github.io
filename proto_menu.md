@@ -9,33 +9,27 @@ layout: page
   <span>*<i>Menu and prices are subject to change without notice --- 01/01/2023</i>*</span><br/>
 
   {% for category in site.data.menu.categories %}
-    {% if category.head %}
-      <div>{{ category.head }}</div>
-    {% endif %}
     <h2>{{ category.name }}</h2>
+    {% if category.head %}
+      <div style="margin-bottom: 25px;">{{ category.head }}</div>
+    {% endif %}
     <div class="category-section">
-      
       {% for item in category.items %}
         <div class="menu-item">
           <span><strong>{{ item.title }}</strong> {{ item.price }}</span>
           <br>
-          
           {% if item.description %}
             <span style="margin-left: 25px;">{{ item.description }}</span>
             <br>
           {% endif %}
-          
           {% if item.image %}
             <img src="{{ item.image }}" alt="{{ item.description }}" class="preview-panel col-sm-4">
           {% endif %}
         </div>
       {% endfor %}
-
     </div>
-
-    
     {% if category.foot %}
-      <div>{{ category.foot }}</div>
+      <div style="margin-top: 25px;">{{ category.foot }}</div>
     {% endif %}
   {% endfor %}
   <div style="margin-top: 50px;">
