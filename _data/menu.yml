@@ -4,7 +4,7 @@ categories:
       - title: "A1. Fried Bean Curd Skin Wrap Salad (Tàu Hũ Ki)"
         description: # Sample
         price: "$8.75"
-        image: "uploads/A1.JPG"
+        image: # "uploads/A1.JPG" - paths are done like this
       - title: "A2. Fresh Spring Roll (Gỏi Cuốn) 2 for"
         description: # Sample
         price: "$8.00"
