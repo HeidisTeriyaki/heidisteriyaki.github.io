@@ -54,7 +54,7 @@ categories:
         price: "$15.00"
         image: # image path
     foot: |
-      <span><strong> Phở Broth</strong> $7.50    <strong>Extra meats</strong> $5.00    <strong>Extra noodle</strong> $3.00<br><span>
+      <span><strong> Phở Broth</strong> $7.50    <strong>Extra meats</strong> $5.00    <strong>Extra noodle</strong> $3.00</span><br>
       <br>
       <i>
       ***<strong>Phở</strong> for <strong>Take-Out</strong> is <strong>Large</strong> sized orders <strong>ONLY</strong>***
