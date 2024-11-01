@@ -148,96 +148,102 @@ categories:
         image: # image path
   - name: "Curry & Lemongrass"
     items:
-      - title: ""
-        description:
-        price: ""
+      - title: "C1. Bún Cà Ri [SPICY]"
+        description: |
+          Stir fried curry with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> with lemongrass served with sticky rice noodles
+        price: "$14.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "C2. Vietnamese Lemongrass Chicken [SPICY]"
+        description: |
+          Stir fried lemongrass with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> served with steamed rice and an eggroll
+        price: "$14.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "C3. Vietnamese Curry Chicken with Lemongrass [SPICY]"
+        description: |
+          Stir fried curry with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> with lemongrass served with steamed rice and an eggroll
+        price: "$14.50"
         image: # image path
   - name: "Vermicelli Bowls"
     items:
-      - title: ""
-        description:
-        price: ""
+      - title: "B1. Bún Tôm Thịt Nướng"
+        description: "Combo grilled pork & shrimp"
+        price: "$13.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "B2. Bún Thịt Nướng"
+        description: "Grilled pork"
+        price: "$13.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "B3. Bún Chả Giò Thịt Nướng"
+        description: "Combo grilled pork & eggrolls"
+        price: "$13.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "B4. Bún Chả Giò"
+        description: "Fried egg rolls"
+        price: "$13.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "B5. Bún Đặc Biệt"
+        description: "Combo grilled pork, tofu wrap, shrimp, and egg rolls"
+        price: "$15.00"
         image: # image path
   - name: "Veggies and Tofu Dishes"
     items:
-      - title: ""
+      - title: "V1. Tofu Spring Rolls 2 for"
         description:
-        price: ""
+        price: "$8.00"
         image: # image path
-      - title: ""
+      - title: "V2. Crab Cream Cheese Wonton 6 for"
         description:
-        price: ""
+        price: "$8.00"
         image: # image path
-      - title: ""
+      - title: "V3. Tofu Teriyaki"
         description:
-        price: ""
+        price: "$12.50"
         image: # image path
-      - title: ""
+      - title: "V4. Tofu Chow Mein"
         description:
-        price: ""
+        price: "$13.50"
         image: # image path
-      - title: ""
+      - title: "V5. Vegetable Chow Mein"
         description:
-        price: ""
+        price: "$12.50"
         image: # image path
-      - title: ""
+      - title: "V6. Vegetable Fried Rice"
         description:
-        price: ""
+        price: "$12.50"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "V7. Bánh Xèo"
+        description: "Vietnamese crepe with shrimp, tofu, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping"
+        price: "$15.00"
         image: # image path
-      - title: ""
-        description:
-        price: ""
+      - title: "V8. Tofu Vermicelli Bowl"
+        description: "Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side"
+        price: "$13.50"
         image: # image path
-      - title: ""
+      - title: "V9. Vegetable Yakisoba"
         description:
-        price: ""
+        price: "$12.50"
         image: # image path
-      - title: ""
+      - title: "V10. Phở Vegetables(Beef bones broth)"
         description:
-        price: ""
+        price: "$14.00"
         image: # image path
-      - title: ""
+      - title: "V11. Tofu Stir Fried w/Mix Vegetables"
         description:
-        price: ""
+        price: "$13.50"
         image: # image path
   - name: "Beverages"
     items:
-      - title: ""
-        description:
-        price: ""
-        image: # image path
-      - title: ""
-        description:
-        price: ""
-        image: # image path
+      - title: |
+          <ul><li>Fountain Drinks</li></ul>
+      description: "Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper"
+      price: "$2.95"
+      image: # image path
+      - title: |
+          <ul><li>Bottled & Canned Drinks</li></ul>
+      description: |
+        <ul style="list-style: none; margin-bottom: -23px; margin-top: -23px;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
+      price: ""
+      image: # image path
   - name: "Homemade Beverages"
     items:
       - title: ""
