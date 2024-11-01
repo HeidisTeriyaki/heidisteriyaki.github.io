@@ -234,7 +234,7 @@ categories:
   - name: "Beverages"
     items:
       - title: |
-          <ul style="margin-bottom: -23px;"><li>Fountain Drinks<span style="font-weight: normal;"> $2.95</span><strong></li></ul>
+          <ul style="margin-bottom: -23px;"><li>Fountain Drinks<span style="font-weight: normal;"> $2.95</span></li></ul>
         description: "Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper"
         price: ""
         image: # image path
