@@ -1,6 +1,5 @@
 categories:
   - name: "Appetizers"
-    head: 
     items:
       - title: "A1. Fried Bean Curd Skin Wrap Salad (Tàu Hũ Ki)"
         description: # Sample
@@ -23,6 +22,8 @@ categories:
         price: "$8.00"
         image: # image path
   - name: "Phở"
+    head: |
+      <i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprout, basil, jalapeños & lime</i>
     items:
       - title: "P1. Phở Đặc Biệt"
         description: "Served with eye of round steak, tender brisket, soft tendon, & tripe"
@@ -52,6 +53,8 @@ categories:
         description: "Served with shrimp"
         price: "$15.00"
         image: # image path
+    foot: |
+      <i>***<strong>Phở</strong> for <strong>Take-Out</strong> is <strong>Large</strong> sized orders <strong>ONLY</strong>***</i>
   - name: "Teriyaki"
     items:
       - title: "T1. Chicken Teriyaki"
@@ -86,6 +89,11 @@ categories:
         description: "Combination of sweet & sour chicken and chicken teriyaki"
         price: "$14.00"
         image: # image path
+    foot: |
+      <i>
+      ***<strong>T9. 1/2 Order Teriyaki Dishes</strong> of either <strong>Chicken, Beef, or Pork ONLY</strong> are served <strong>ONLY</strong> with steamed rice for $9.00***<br>
+      ***<strong>You may SUBSTITUTE Fried Rice or Vegetable Chow Mein or Salad INSTEAD of Steamed Rice for an ADDITIONAL $3.00 on some Teriyaki items</strong>***<br>
+      </i>
   - name: "Fried Rice"
     items:
       - title: "F1. Fried Rice: Chicken, Beef, Pork, or Tofu"
