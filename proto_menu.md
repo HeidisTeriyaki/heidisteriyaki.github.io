@@ -38,7 +38,7 @@ layout: page
       <div>{{ category.foot }}</div>
     {% endif %}
   {% endfor %}
-  <div>
+  <div style="margin-top: 50px;">
     <strong>
       ***Please let us know if you have any FOOD ALLERGIES before you order***<br>
       ***Please order according to the menu, a surcharge may incur if modifications to dishes are made***<br>
