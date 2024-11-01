@@ -235,15 +235,15 @@ categories:
     items:
       - title: |
           <ul><li>Fountain Drinks</li></ul>
-      description: "Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper"
-      price: "$2.95"
-      image: # image path
+        description: "Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper"
+        price: "$2.95"
+        image: # image path
       - title: |
           <ul><li>Bottled & Canned Drinks</li></ul>
-      description: |
-        <ul style="list-style: none; margin-bottom: -23px; margin-top: -23px;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
-      price: ""
-      image: # image path
+        description: |
+          <ul style="list-style: none; margin-bottom: -23px; margin-top: -23px;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
+        price: ""
+        image: # image path
   - name: "Homemade Beverages"
     items:
       - title: ""
