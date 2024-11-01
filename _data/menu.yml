@@ -107,7 +107,7 @@ categories:
         price: "$13.50"
         image: # image path
       - title: "S3. Yakisoba Noodle"
-        description: "<span>Stir fried with vegetables, yakisoba noodle & sauce</span><br><ul><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Yakisoba</strong> $15.00</li></ul>"
+        description: "<span>Stir fried with vegetables, yakisoba noodle & sauce</span><ul><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Yakisoba</strong> $15.00</li></ul>"
         price: ""
         image: # image path
       - title: "S4. Bún Bò Huế [SPICY]"
