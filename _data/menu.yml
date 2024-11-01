@@ -204,11 +204,11 @@ categories:
         price: "$8.00"
         image: # image path
       - title: "V2. Crab Cream Cheese Wonton 6 for"
-        description:
+        description: "Our wontons are stuffed with crab, cream cheese, & spices"
         price: "$8.00"
         image: # image path
       - title: "V3. Tofu Teriyaki"
-        description:
+        description: "Tofu served with steamed rice & vegetable chow mein"
         price: "$12.50"
         image: # image path
       - title: "V4. Tofu Chow Mein"
