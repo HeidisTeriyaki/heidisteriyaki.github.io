@@ -72,9 +72,11 @@ layout: page
 }
 
 .menu-item img {
-  max-width: 100%; /* Adjust image to fit container */
-  height: auto;
+  width: 100%; /* Ensures full width within item container */
+  height: 300px; /* Set a uniform height */
+  object-fit: cover; /* Crop images to fit container while preserving aspect ratio */
   margin-bottom: 10px;
+  border-radius: 8px; /* Optional: rounded corners */
 }
 
 .menu-item-title {
