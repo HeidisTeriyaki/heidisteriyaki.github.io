@@ -85,13 +85,7 @@ layout: page
 }
 
 .menu-item-price {
-  color: #555; /* Optional: subtle color for price */
   margin-bottom: 10px;
-}
-
-.menu-item-description {
-  font-size: 0.9em;
-  color: #777;
 }
 
 .category-section > .menu-item:last-child:nth-child(odd) {
