@@ -51,6 +51,10 @@ layout: page
   flex-direction: column;
   align-items: center;
 }
+  
+.options {
+  text-align: left;
+}
 
 .category-section {
   display: grid;
@@ -90,10 +94,6 @@ layout: page
 
 .category-section > .menu-item:last-child:nth-child(odd) {
   grid-column: span 2;
-
-.options {
-  text-align: left;
-}
 </style>
 
 <div class="menu-page">
