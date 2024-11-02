@@ -87,6 +87,9 @@ layout: page
   font-size: 0.9em;
   color: #777;
 }
+
+.category-section > .menu-item:last-child:nth-child(odd) {
+  grid-column: span 2;
 </style>
 
 <div class="menu-page">
