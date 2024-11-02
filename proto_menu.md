@@ -46,22 +46,46 @@ layout: page
 -->
 
 <style>
-.menu-item {
-  margin-bottom: 20px;
-}
-
-.menu-item-content {
+.menu-page {
   display: flex;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
 }
 
-.menu-item-text {
-  flex: 1; /* This will take up the remaining space */
+.category-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two-column grid */
+  gap: 20px; /* Spacing between items */
+  width: 100%;
+  max-width: 800px; /* Adjust based on desired width */
 }
 
-.menu-item-image img {
-  max-width: 150px; /* Adjust the width as needed */
-  margin-left: 15px; /* Add some space between text and image */
+.menu-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.menu-item img {
+  max-width: 100%; /* Adjust image to fit container */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.menu-item-title {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.menu-item-price {
+  color: #555; /* Optional: subtle color for price */
+  margin-bottom: 10px;
+}
+
+.menu-item-description {
+  font-size: 0.9em;
+  color: #777;
 }
 </style>
 
@@ -76,23 +100,14 @@ layout: page
     <div class="category-section">
       {% for item in category.items %}
         <div class="menu-item">
-          <div class="menu-item-content">
-            <!-- Text Content Column -->
-            <div class="menu-item-text">
-              <span><strong>{{ item.title }}</strong> {{ item.price }}</span>
-              <br>
-              {% if item.description %}
-                <span style="margin-left: 25px;">{{ item.description }}</span>
-                <br>
-              {% endif %}
-            </div>
-            <!-- Image Column -->
-            {% if item.image %}
-              <div class="menu-item-image">
-                <img src="{{ item.image }}" alt="{{ item.description }}" class="preview-panel col-sm-4">
-              </div>
-            {% endif %}
-          </div>
+          {% if item.image %}
+            <img src="{{ item.image }}" alt="{{ item.description }}">
+          {% endif %}
+          <span class="menu-item-title">{{ item.title }}</span>
+          <span class="menu-item-price">{{ item.price }}</span>
+          {% if item.description %}
+            <span class="menu-item-description">{{ item.description }}</span>
+          {% endif %}
         </div>
       {% endfor %}
     </div>
@@ -112,3 +127,4 @@ layout: page
     </strong>
   </div>
 </div>
+
