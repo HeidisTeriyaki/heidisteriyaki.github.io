@@ -90,6 +90,10 @@ layout: page
 
 .category-section > .menu-item:last-child:nth-child(odd) {
   grid-column: span 2;
+
+.options {
+  text-align: left;
+}
 </style>
 
 <div class="menu-page">
