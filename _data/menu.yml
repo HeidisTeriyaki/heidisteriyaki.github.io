@@ -64,7 +64,7 @@ categories:
       - title: "T1. Chicken Teriyaki"
         description:
         price: "$12.50"
-        image: # image path
+        image: "uploads/T1.JPG"
       - title: "T2. Pork Teriyaki"
         description:
         price: "$13.00"
@@ -92,7 +92,7 @@ categories:
       - title: "T8. Sweet & Sour Special"
         description: "Combination of sweet & sour chicken and chicken teriyaki"
         price: "$14.00"
-        image: # image path
+        image: "uploads/T8.JPG"
     foot: |
       <i>
       ***<strong>T9. 1/2 Order Teriyaki Dishes</strong> of either <strong>Chicken, Beef, or Pork ONLY</strong> are served <strong>ONLY</strong> with steamed rice for $9.00***<br>
@@ -104,7 +104,7 @@ categories:
         description: |
           <strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50
         price: "$13.50"
-        image: # image path
+        image: "uploads/F1.JPG"
       - title: "F2. Shrimp Fried Rice"
         description:
         price: "$15.00"
@@ -127,11 +127,11 @@ categories:
       - title: "S4. Bún Bò Huế [SPICY]"
         description: "Spicy beef noodle soup"
         price: "$14.50"
-        image: # image path
+        image: "uploads/S4.JPG"
       - title: "S5. Hủ Tiếu Mi Thập Cẩm"
         description: "Rice noodle & egg noodle soup with sliced pork, shrimp, and crab"
         price: "$14.50"
-        image: # image path
+        image: "uploads/S5.JPG"
       - title: "S6. Chowmein Noodle"
         description: |
           <span>Stir-fried with vegetables and chowmein noodles</span><ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Chowmein</strong> $15.00</li></ul>
@@ -174,7 +174,7 @@ categories:
         description: |
           Stir fried curry with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> with lemongrass served with steamed rice and an eggroll
         price: "$14.50"
-        image: # image path
+        image: "uploads/C3.JPG"
   - name: "Vermicelli Bowls"
     items:
       - title: "B1. Bún Tôm Thịt Nướng"
@@ -196,7 +196,7 @@ categories:
       - title: "B5. Bún Đặc Biệt"
         description: "Combo grilled pork, tofu wrap, shrimp, and egg rolls"
         price: "$15.00"
-        image: # image path
+        image: "uploads/B5.JPG"
   - name: "Veggies and Tofu Dishes"
     items:
       - title: "V1. Tofu Spring Rolls 2 for"
