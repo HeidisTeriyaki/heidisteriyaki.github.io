@@ -66,7 +66,7 @@ layout: page
       {% for item in category.items %}
         <div class="menu-item">
           {% if item.image %}
-            <img src="{{ item.image }}" alt="{{ item.description }}" style="preview-panel col-sm-4">
+            <img src="{{ item.image }}" alt="" style="preview-panel col-sm-4">
           {% endif %}
           <span class="menu-item-title">{{ item.title }}</span>
           <span class="menu-item-price">{{ item.price }}</span>
