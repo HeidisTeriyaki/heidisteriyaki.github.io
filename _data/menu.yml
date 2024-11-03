@@ -8,19 +8,19 @@ categories:
       - title: "A2. Fresh Spring Roll (Gỏi Cuốn) 2 for"
         description: # Sample
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "A3. Fried Egg Roll (Chả Giò or Lumpia) 5 for"
         description: # Sample
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "A4. Potstickers (Gyōza) 6 for"
         description: # Sample
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "A5. Crab Cream Cheese Wonton 6 for"
         description: "Our wontons are stuffed with crab, cream cheese, & spices"
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
   - name: "Phở"
     head: |
       <i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprout, basil, jalapeños & lime</i>
@@ -28,31 +28,31 @@ categories:
       - title: "P1. Phở Đặc Biệt"
         description: "Served with eye of round steak, tender brisket, soft tendon, & tripe"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P2. Phở Tái Bò Viên"
         description: "Served with eye of round steak & Vietnamese meatball"
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P3. Phở Tái"
         description: "Served with eye of round steak"
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P4. Phở Tái Nạm"
         description: "Served with eye of round steak & tender brisket"
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P5. Phở Gà"
         description: "Served with chicken"
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P6. Pho Tàu Hũ"
         description: "Served with tofu"
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "P7. Phở Tôm"
         description: "Served with shrimp"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
     foot: |
       <strong> Phở Broth</strong> $7.50 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Extra meats</strong> $5.00 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Extra noodle</strong> $3.00<br>
       <br>
@@ -68,27 +68,27 @@ categories:
       - title: "T2. Pork Teriyaki"
         description:
         price: "$13.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T3. Beef Teriyaki"
         description:
         price: "$13.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T4. Chicken & Pork"
         description:
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T5. Pork & Beef"
         description:
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T6. Chicken & Beef"
         description:
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T7. Heidi's Special"
         description: "Combination of beef, chicken, pork teriyaki with an eggroll"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "T8. Sweet & Sour Special"
         description: "Combination of sweet & sour chicken and chicken teriyaki"
         price: "$14.00"
@@ -108,22 +108,22 @@ categories:
       - title: "F2. Shrimp Fried Rice"
         description:
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
   - name: "Specialties"
     items:
       - title: "S1. Bánh Xèo"
         description: "Vietnamese crepe with shrimp, pork, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S2. Vietnamese Beef Salad"
         description: "Vietnamese beef salad served with a bowl of steamed rice"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S3. Yakisoba Noodle"
         description: |
           <span>Stir fried with vegetables, yakisoba noodle & sauce</span><ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Yakisoba</strong> $15.00</li></ul>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S4. Bún Bò Huế [SPICY]"
         description: "Spicy beef noodle soup"
         price: "$14.50"
@@ -136,40 +136,40 @@ categories:
         description: |
           <span>Stir-fried with vegetables and chowmein noodles</span><ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Chowmein</strong> $15.00</li></ul>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S7. General Tso's Chicken [SPICY]"
         description:
         price: "$13.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S8. Orange Chicken [SPICY]"
         description:
         price: "$13.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S9. Broccoli Stir Fried"
         description: |
           <ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Broccoli</strong> $15.00</li></ul>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng"
         description: "Served with shrimp, pork chop, sliced pork, egg, lettuce with pickles, and a side of fish sauce"
         price: "$17.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "S11. Tôm Rang Muối [SPICY]"
         description: "Stir fried shrimp with broccoli, onion, garlic, and jalapeños served with steamed rice--with a side of salted lime juice for dipping"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
   - name: "Curry & Lemongrass"
     items:
       - title: "C1. Bún Cà Ri [SPICY]"
         description: |
           Stir fried curry with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> with lemongrass served with sticky rice noodles
         price: "$14.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "C2. Vietnamese Lemongrass Chicken [SPICY]"
         description: |
           Stir fried lemongrass with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> served with steamed rice and an eggroll
         price: "$14.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "C3. Vietnamese Curry Chicken with Lemongrass [SPICY]"
         description: |
           Stir fried curry with your choice of <strong>Chicken, Beef, Pork or Tofu</strong> with lemongrass served with steamed rice and an eggroll
@@ -180,19 +180,19 @@ categories:
       - title: "B1. Bún Tôm Thịt Nướng"
         description: "Combo grilled pork & shrimp"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "B2. Bún Thịt Nướng"
         description: "Grilled pork"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "B3. Bún Chả Giò Thịt Nướng"
         description: "Combo grilled pork & eggrolls"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "B4. Bún Chả Giò"
         description: "Fried egg rolls"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "B5. Bún Đặc Biệt"
         description: "Combo grilled pork, tofu wrap, shrimp, and egg rolls"
         price: "$15.00"
@@ -202,47 +202,47 @@ categories:
       - title: "V1. Tofu Spring Rolls 2 for"
         description:
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V2. Crab Cream Cheese Wonton 6 for"
         description: "Our wontons are stuffed with crab, cream cheese, & spices"
         price: "$8.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V3. Tofu Teriyaki"
         description: "Tofu served with steamed rice & vegetable chow mein"
         price: "$12.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V4. Tofu Chow Mein"
         description:
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V5. Vegetable Chow Mein"
         description:
         price: "$12.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V6. Vegetable Fried Rice"
         description:
         price: "$12.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V7. Bánh Xèo"
         description: "Vietnamese crepe with shrimp, tofu, beansprout with a side of basil, daikon, & carrot pickle to wrap--and homemade fish sauce for dipping"
         price: "$15.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V8. Tofu Vermicelli Bowl"
         description: "Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side"
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V9. Vegetable Yakisoba"
         description:
         price: "$12.50"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V10. Phở Vegetables(Beef bones broth)"
         description:
         price: "$14.00"
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: "V11. Tofu Stir Fried w/Mix Vegetables"
         description:
         price: "$13.50"
-        image: # image path
+        image: "uploads/A1.JPG"
   - name: "Beverages"
     items:
       - title: |
@@ -250,23 +250,23 @@ categories:
         description: |
           <span>Pepsi, Diet Pepsi, Mountain Dew, Ice Tea, Root Beer, or Dr. Pepper</span>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: |
           <ul style="margin-bottom: -15px;"><li>Bottled & Canned Drinks</li></ul>
         description: |
           <ul style="list-style: none;"><li>Aquafina Water $1.50</li><li>Jarrito's Soda $2.95</li><li>Thai Tea, Coconut Juice $4.25</li></ul>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
   - name: "Homemade Beverages"
     items:
       - title: |
           <ul style="margin-bottom: -15px;"><li>Hot Jasmine Tea<span style="font-weight: normal;"> $2.50</span></li></ul>
         description:
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
       - title: |
           <ul style="margin-bottom: -15px;"><li>Cà Phê Sữa Đá<span style="font-weight: normal;"> $5.50</span></li></ul>
         description: |
           <span>Iced Espresso with Condensed Milk</span>
         price: ""
-        image: # image path
+        image: "uploads/A1.JPG"
