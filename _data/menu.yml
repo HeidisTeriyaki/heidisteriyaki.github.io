@@ -121,7 +121,7 @@ categories:
         image: "uploads/A1.JPG"
       - title: "S3. Yakisoba Noodle"
         description: |
-          <span>Stir fried with vegetables, yakisoba noodle & sauce</span><ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Yakisoba</strong> $15.00</li></ul>
+          <span>Stir fried with vegetables, yakisoba noodle & sauce</span><ul class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Yakisoba</strong> $15.00</li></ul>
         price: ""
         image: "uploads/A1.JPG"
       - title: "S4. Bún Bò Huế [SPICY]"
@@ -134,7 +134,7 @@ categories:
         image: "uploads/S5.JPG"
       - title: "S6. Chowmein Noodle"
         description: |
-          <span>Stir-fried with vegetables and chowmein noodles</span><ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Chowmein</strong> $15.00</li></ul>
+          <span>Stir-fried with vegetables and chowmein noodles</span><ul class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Chowmein</strong> $15.00</li></ul>
         price: ""
         image: "uploads/A1.JPG"
       - title: "S7. General Tso's Chicken [SPICY]"
@@ -147,7 +147,7 @@ categories:
         image: "uploads/A1.JPG"
       - title: "S9. Broccoli Stir Fried"
         description: |
-          <ul style="margin-bottom: -23px;" class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Broccoli</strong> $15.00</li></ul>
+          <ul class="options"><li><strong>Chicken, Beef, Pork, or Tofu</strong> $13.50</li><li><strong>2 Meat Combo</strong> $14.50 &#92; <strong>3 Meat Combo</strong> $15.50</li><li><strong>Shrimp Broccoli</strong> $15.00</li></ul>
         price: ""
         image: "uploads/A1.JPG"
       - title: "S10. Cơm Đặc Biệt Tôm, Thịt, Sườn, Trứng"
