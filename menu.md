@@ -75,7 +75,7 @@ layout: page
 <span>      Stir fried with vegetables, yakisoba noodle & sauce</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $14.50 </span> <br/>
 <span>      - <b>2 Meat Combo</b> $15.50 \~ <b>3 Meat Combo</b> $16.50</span><br/>
-<span>		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Yakisoba</b> $15.00</span><br/>
+<span>		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Yakisoba</b> $16.50</span><br/>
 <span>  <b><a href="/bun-bo-hue-spicy.html">S4. Bún Bò Huế \[SPICY\]</a></b> $15.50</span><br/>
 <span>      Spicy beef noodle soup</span><br/>
 <span>  <b><a href="/hu-tieu-mi-thap-cam.html">S5. Hủ Tiếu Mi Thập Cẩm</a></b> $15.50</span><br/>
