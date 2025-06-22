@@ -4,7 +4,7 @@ position: 0
 layout: default
 ---
 
-<p>Notice: We will be CLOSED on July 4-7 and REOPEN on July 8. Thank you for your understanding!</p>
+<p><b>Notice: We will be CLOSED on July 4-7 and REOPEN on July 8. Thank you for your understanding!</b></p>
 
 ![Heidi's Teriyaki Express Storefront](/uploads/storefront.jpg)
  
