@@ -4,6 +4,8 @@ position: 0
 layout: default
 ---
 
+<p>Notice: We will be CLOSED on July 4-7 and REOPEN on July 8. Thank you for your understanding!</p>
+
 ![Heidi's Teriyaki Express Storefront](/uploads/storefront.jpg)
  
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
