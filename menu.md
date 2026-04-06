@@ -154,7 +154,7 @@ and a side of fish sauce</span><br/>
 <p>
 <h1>Homemade Beverages</h1>
 <ul>
-<li><b>Hot Jasmine Tea</b> $3.25</li>
+<li><b>Hot Jasmine Tea</b> $3.50</li>
 <li><b>Cà Phê Sữa Đá</b> $7.00</li>
 <span>      <i>Iced Espresso with Condensed Milk</i></span><br/>
 </ul>
