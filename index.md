@@ -6,7 +6,7 @@ layout: default
 
 
 ![Heidi's Teriyaki Express Storefront](/uploads/storefront.jpg)
- 
+<p><b>Notice: We will be CLOSED on August 15 - August 23 and will REOPEN on Monday August 24. Thank you!<b><p>
 <p><b>Phone Number:</b> <br/><a href="360-662-0060">(360) 662-0060</a><br/></p>
 
 <p><b>Hours:</b><br/>
