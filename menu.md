@@ -10,7 +10,7 @@ layout: page
 <h1>Appetizers</h1>
 <span><b><a href="/tau-hu-ki.html">A1. Fried Bean Curd Skin Wrap Salad</a></b> (Tàu Hũ Ki) $10.50</span><br/>
 <span><b>A2. Fresh Spring Rolls</b> (Gỏi Cuốn) 2 for $9.75</span><br/>
-<span>      <i>Rice vermicelli noodles, lettuce, beansprouts, basil, sliced pork, & shrimp wrapped in rice paper with peanut sauce on  the side</i></span>
+<span>      <i>Rice vermicelli noodles, lettuce, beansprouts, basil, sliced pork, & shrimp wrapped in rice paper with peanut sauce on  the side</i></span><br/>
 <span><b>A3. Fried Egg Rolls</b> (Chả Giò or Lumpia) 5 for $10.50</span><br/>
 <span><b>A4. Potstickers</b> (Gyōza) 6 for $9.75</span><br/>
 <span><b>A5. Crab Cream Cheese Wonton</b> 6 for $9.75</span><br/>
@@ -40,7 +40,7 @@ layout: page
 
 <p>
 <h1>Teriyaki </h1>
-<span><i>We serve our teriyaki with steamed rice and a side of vegetable chowmein</i></span><br/>
+<span><i>We serve our teriyaki with steamed rice and a side of vegetable chowmein</i></span><br/><br/>
 <span>  <b><a href="/chicken-teriyaki.html">T1. Chicken Teriyaki</a></b> $14.50</span><br/>
 <span>  <b>T2. Pork Teriyaki</b> $15.50</span><br/>
 <span>  <b>T3. Beef Teriyaki</b> $15.50</span><br/>
@@ -86,7 +86,7 @@ layout: page
 <span>      - <b>2 Meat Combo</b> $16.50 \~ <b>3 Meat Combo</b> $17.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Chowmein</b> $17.50</span><br/>
 <span>  <b>S7. General Tso's Chicken \[SPICY\]</b> $15.75</span><br/>
-<span>      Served with steamed rice</span></br>
+<span>      Served with steamed rice</span><br/>
 <span>  <b>S8. Orange Chicken \[SPICY\]</b> $15.75</span><br/>
 <span>      Served with steamed rice</span><br/>
 <span>  <b>S9. Broccoli Stir Fry</b></span><br/>
@@ -113,7 +113,7 @@ and a side of fish sauce</span><br/>
 
 <p>
 <h1>Vermicelli Bowls</h1>
-<span><i>We serve our vermicelli bowls with sticky rice noodles, lettuce, beansprouts, basil, pickled daikon & carrots, and topped with cilantro, peanuts, and fried onions with fish sauce on the side</i></span><br/>
+<span><i>We serve our vermicelli bowls with sticky rice noodles, lettuce, beansprouts, basil, pickled daikon & carrots, and topped with cilantro, peanuts, and fried onions with fish sauce on the side</i></span><br/><br/>
 <span>  <b>B1. Bún Tôm Thịt Nướng</b> $16.50</span><br/>
 <span>      Combo grilled pork & shrimp</span><br/>
 <span>  <b>B2. Bún Thịt Nướng</b> $15.50</span><br/>
