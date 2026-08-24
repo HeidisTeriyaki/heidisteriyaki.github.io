@@ -10,11 +10,11 @@ layout: page
 <h1>Appetizers</h1>
 <span><b><a href="/tau-hu-ki.html">A1. Fried Bean Curd Skin Wrap Salad</a></b> (Tàu Hũ Ki) $10.50</span><br/>
 <span><b>A2. Fresh Spring Rolls</b> (Gỏi Cuốn) 2 for $9.75</span><br/>
-<span>        <i>Rice vermicelli noodles, lettuce, beansprouts, basil, sliced pork, & shrimp wrapped in rice paper with peanut sauce on  the side</i></span><br/>
+<span>       Rice vermicelli noodles, lettuce, beansprouts, basil, sliced pork, & shrimp wrapped in rice paper with peanut sauce on  the side</span><br/>
 <span><b>A3. Fried Egg Rolls</b> (Chả Giò or Lumpia) 5 for $10.50</span><br/>
 <span><b>A4. Potstickers</b> (Gyōza) 6 for $9.75</span><br/>
 <span><b>A5. Crab Cream Cheese Wonton</b> 6 for $9.75</span><br/>
-<span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</i></span><br/>
+<span>       Our wontons are stuffed with crab, cream cheese, & spices</span><br/>
 </p> 
 
 <p>
