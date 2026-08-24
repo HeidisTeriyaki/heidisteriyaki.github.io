@@ -86,11 +86,8 @@ layout: page
 <span>      - <b>2 Meat Combo</b> $16.50 \~ <b>3 Meat Combo</b> $17.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Chowmein</b> $17.50</span><br/>
 <span>  <b>S7. General Tso's Chicken \[SPICY\]</b> $15.75</span><br/>
-<span>      Served with steamed rice</span><br/>
 <span>  <b>S8. Orange Chicken \[SPICY\]</b> $15.75</span><br/>
-<span>      Served with steamed rice</span><br/>
 <span>  <b>S9. Broccoli Stir Fry</b></span><br/>
-<span>      Served with steamed rice</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $15.50</span> <br/>
 <span>      - <b>2 Meat Combo</b> $16.50 \~ <b>3 Meat Combo</b> $17.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Broccoli</b> $17.50</span><br/>
