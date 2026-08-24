@@ -8,19 +8,18 @@ layout: page
 <span>*<i>Menu and prices are subject to change without notice --- 02/01/2026</i>*</span><br/>
 <p>
 <h1>Appetizers</h1>
-<ul>
-<li><b><a href="/tau-hu-ki.html">A1. Fried Bean Curd Skin Wrap Salad</a></b> (Tàu Hũ Ki) $10.50</li>
-<li><b>A2. Fresh Spring Roll</b> (Gỏi Cuốn) 2 for $9.75</li>
-<li><b>A3. Fried Egg Roll</b> (Chả Giò or Lumpia) 5 for $10.50</li>
-<li><b>A4. Potstickers</b> (Gyōza) 6 for $9.75</li>
-<li><b>A5. Crab Cream Cheese Wonton</b> 6 for $9.75</li>
-<span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</i></span>
-</ul>
+<span><b><a href="/tau-hu-ki.html">A1. Fried Bean Curd Skin Wrap Salad</a></b> (Tàu Hũ Ki) $10.50</span><br/>
+<span><b>A2. Fresh Spring Rolls</b> (Gỏi Cuốn) 2 for $9.75</span><br/>
+<span>      <i>Rice vermicelli noodles, lettuce, beansprouts, basil, sliced pork, & shrimp wrapped in rice paper with peanut sauce on  the side</i></span>
+<span><b>A3. Fried Egg Rolls</b> (Chả Giò or Lumpia) 5 for $10.50</span><br/>
+<span><b>A4. Potstickers</b> (Gyōza) 6 for $9.75</span><br/>
+<span><b>A5. Crab Cream Cheese Wonton</b> 6 for $9.75</span><br/>
+<span>      <i>Our wontons are stuffed with crab, cream cheese, & spices</i></span><br/>
 </p> 
 
 <p>
 <h1>Phở</h1>
-<span><i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprout, basil, jalapeños & lime</i></span> <br/><br/>
+<span><i>We serve our phở with rice noodle in beef broth with green onion, white onion, cilantro with a side plate of bean sprouts, basil, jalapeños & lime</i></span> <br/><br/>
 <span>  <b>P1. Phở Đặc Biệt</b> $17.50</span><br/>
 <span>       Served with eye of round steak, tender brisket, soft tendon, & tripe</span><br/>
 <span>  <b>P2. Phở Tái Bò Viên</b> $16.50</span><br/>
@@ -41,6 +40,7 @@ layout: page
 
 <p>
 <h1>Teriyaki </h1>
+<span><i>We serve our teriyaki with steamed rice and a side of vegetable chowmein</i></span><br/>
 <span>  <b><a href="/chicken-teriyaki.html">T1. Chicken Teriyaki</a></b> $14.50</span><br/>
 <span>  <b>T2. Pork Teriyaki</b> $15.50</span><br/>
 <span>  <b>T3. Beef Teriyaki</b> $15.50</span><br/>
@@ -86,8 +86,11 @@ layout: page
 <span>      - <b>2 Meat Combo</b> $16.50 \~ <b>3 Meat Combo</b> $17.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Chowmein</b> $17.50</span><br/>
 <span>  <b>S7. General Tso's Chicken \[SPICY\]</b> $15.75</span><br/>
+<span>      Served with steamed rice</span></br>
 <span>  <b>S8. Orange Chicken \[SPICY\]</b> $15.75</span><br/>
-<span>  <b>S9. Broccoli Stir Fried</b></span><br/>
+<span>      Served with steamed rice</span><br/>
+<span>  <b>S9. Broccoli Stir Fry</b></span><br/>
+<span>      Served with steamed rice</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Chicken, Beef, Pork, or Tofu</b> $15.50</span> <br/>
 <span>      - <b>2 Meat Combo</b> $16.50 \~ <b>3 Meat Combo</b> $17.50</span><br/>
 <span>	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <b>Shrimp Broccoli</b> $17.50</span><br/>
@@ -102,14 +105,15 @@ and a side of fish sauce</span><br/>
 <h1>Curry & Lemongrass</h1>
 <span>  <b>C1. Bún Cà Ri \[SPICY\]</b> $16.50</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork or Tofu</b> with lemongrass served with sticky rice noodles</span><br/>
-<span>  <b>C2. Vietnamese Lemongrass Chicken \[SPICY\]</b> $16.50</span><br/>
+<span>  <b>C2. Vietnamese Lemongrass Stir Fry \[SPICY\]</b> $16.50</span><br/>
 <span>      Stir fried lemongrass with your choice of <b>Chicken, Beef, Pork, or Tofu</b> served with steamed rice and an eggroll</span><br/>
-<span>  <b><a href="https://www.heidisteriyaki.org/vietnamese-curry-chicken-with-lemongrass-spicy.html">C3. Vietnamese Curry Chicken with Lemongrass \[SPICY\]</a></b> $16.50</span><br/>
+<span>  <b><a href="https://www.heidisteriyaki.org/vietnamese-curry-chicken-with-lemongrass-spicy.html">C3. Vietnamese Curry and Lemongrass Stir Fry \[SPICY\]</a></b> $16.50</span><br/>
 <span>      Stir fried curry with your choice of <b>Chicken, Beef, Pork, or Tofu</b> with lemongrass served with steamed rice and an eggroll</span><br/>
 </p>
 
 <p>
 <h1>Vermicelli Bowls</h1>
+<span><i>We serve our vermicelli bowls with sticky rice noodles, lettuce, beansprouts, basil, pickled daikon & carrots, and topped with cilantro, peanuts, and fried onions with fish sauce on the side</i></span><br/>
 <span>  <b>B1. Bún Tôm Thịt Nướng</b> $16.50</span><br/>
 <span>      Combo grilled pork & shrimp</span><br/>
 <span>  <b>B2. Bún Thịt Nướng</b> $15.50</span><br/>
@@ -136,8 +140,8 @@ and a side of fish sauce</span><br/>
 <span>  <b>V8. Tofu Vermicelli Bowl</b> $15.50</span><br/>
 <span>      Tofu over sticky rice noodles & vegetables (bean sprout, iceberg lettuce, and basil) with peanut sauce on the side</span><br/>
 <span>  <b>V9. Vegetable Yakisoba</b> $14.50</span><br/>
-<span>  <b>V10. Phở Vegetables</b>(Beef bones broth) $16.50</span><br/>
-<span>  <b>V11. Tofu Stir Fried w/Mix Vegetables </b> $15.50</span><br/>
+<span>  <b>V10. Vegetable Phở</b>(Beef bones broth) $16.50</span><br/>
+<span>  <b>V11. Tofu Stir Fry w/ Mixed Vegetables </b> $15.50</span><br/>
 
 <p>
 <h1>Beverages</h1>
